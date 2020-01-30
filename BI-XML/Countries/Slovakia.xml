@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<country name="Slovakia">
+    <section name="Geography">
+        <paragraph name="Location">
+            <text>Central Europe, south of Poland</text>
+        </paragraph>
+
+        <paragraph name="Geographic coordinates">
+            <text>48 40 N, 19 30 E</text>
+        </paragraph>
+
+        <paragraph name="Map references">
+            <text>Europe</text>
+        </paragraph>
+
+        <paragraph name="Area">
+            <text>
+                <line>total: 49,035 sq km</line>
+                <line>land: 48,105 sq km</line>
+                <line>water: 930 sq km</line>
+                <line>country comparison to the world: 131</line>
+            </text>
+        </paragraph>
+
+        <paragraph name="Area comparative">
+            <text>about one and a half times the size of Maryland; about twice the size of New Hampshire</text>
+        </paragraph>
+
+        <paragraph name="Land boundaries">
+            <text>
+                <line>total: 1,611 km</line>
+                <line>border countries (5): Austria 105 km, Czech Republic 241 km, Hungary 627 km, Poland 541 km, Ukraine 97 km</line>
+            </text>
+        </paragraph>
+
+        <paragraph name="Coastline">
+            <text>0 km (landlocked)</text>
+        </paragraph>
+
+        <paragraph name="Maritime claims">
+            <text>none (landlocked)</text>
+        </paragraph>
+
+        <paragraph name="Climate">
+            <text>temperate, cool summers, cold, cloudy, humid winters</text>
+        </paragraph>
+
+        <paragraph name="Terrain">
+            <text>rugged mountains in the central and northern part and lowlands in the south</text>
+        </paragraph>
+
+        <paragraph name="Elevation">
+            <text>
+                <line>mean elevation: 458 m</line>
+                <line>lowest point: Bodrok River 94 m</line>
+                <line>highest point: Gerlachovsky Stit 2,655 m</line>
+            </text>
+        </paragraph>
+
+        <paragraph name="Natural resources">
+            <text>lignite, small amounts of iron ore, copper and manganese ore; salt; arable land</text>
+        </paragraph>
+
+        <paragraph name="Land use">
+            <text>
+                <line>agricultural land: 40.1% (2011 est.)</line>
+                <line>arable land: 28.9% (2011 est.) / permanent crops: 0.4% (2011 est.) / permanent pasture: 10.8% (2011 est.)</line>
+                <line>forest: 40.2% (2011 est.)</line>
+                <line>other: 19.7% (2011 est.)</line>
+            </text>
+        </paragraph>
+
+        <paragraph name="Irrigated land">
+            <text>869 sq km (2012)</text>
+        </paragraph>
+
+        <paragraph name="Population distribution">
+            <text>a fairly even distribution throughout most of the country; slightly larger concentration in the west in proximity to the Czech border</text>
+        </paragraph>
+
+        <paragraph name="Natural hazards">
+            <text>flooding</text>
+        </paragraph>
+
+        <paragraph name="Environment - current issues">
+            <text>air pollution and acid rain present human health risks and damage forests; land erosion caused by agricultural and mining practices; water pollution</text>
+        </paragraph>
+
+        <paragraph name="Environment - international agreements">
+            <text>
+                <line>party to: Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulfur 85, Air Pollution-Sulfur 94, Air Pollution-Volatile Organic Compounds, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling</line>
+                <line>signed, but not ratified: none of the selected agreements</line>
+            </text>
+        </paragraph>
+
+        <paragraph name="Geography - note">
+            <text>landlocked; most of the country is rugged and mountainous; the Tatra Mountains in the north are interspersed with many scenic lakes and valleys</text>
+        </paragraph>
+
+    </section>
+
+    <section name="People and Society">
+        <paragraph name="Population">
+            <text></text>
+        </paragraph>
+
+        <paragraph name="Nationality">
+            <text></text>
+        </paragraph>
+
+        <paragraph name="Ethnic groups">
+            <text></text>
+        </paragraph>
+
+        <paragraph name="Languages">
+            <text></text>
+        </paragraph>
+
+        <paragraph name="Religions">
+            <text></text>
+        </paragraph>
+
+        <paragraph name="Age structure">
+            <text>
+                <line></line>
+                <line></line>
+                <line></line>
+                <line></line>
+                <line></line>
+            </text>
+        </paragraph>
+
+        <paragraph name="Dependency ratios">
+            <text>
+                <line></line>
+                <line></line>
+                <line></line>
+                <line></line>
+            </text>
+        </paragraph>
+
+        <paragraph name="Median age">
+            <text>
+                <line></line>
+                <line></line>
+                <line></line>
+                <line></line>
+            </text>
+        </paragraph>
+
+        <paragraph name="Population growth rate">
+            <text>
+                <line></line>
+                <line></line>
+            </text>
+        </paragraph>
+
+        <paragraph name="Birth rate">
+            <text>
+                <line></line>
+                <line></line>
+            </text>
+        </paragraph>
+
+        <paragraph name="Death rate">
+            <text>
+                <line></line>
+                <line></line>
+            </text>
+        </paragraph>
+
+        <paragraph name="Net migration rate">
+            <text>
+                <line></line>
+                <line></line>
+            </text>
+        </paragraph>
+
+        <paragraph name="Population distribution">
+            <text></text>
+        </paragraph>
+
+        <paragraph name="Urbanization">
+            <text>
+                <line></line>
+                <line></line>
+            </text>
+        </paragraph>
+
+        <paragraph name="Major urban areas">
+            <text></text>
+        </paragraph>
+
+        <paragraph name="Sex ratio">
+            <text>
+                <line></line>
+                <line></line>
+                <line></line>
+                <line></line>
+                <line></line>
+                <line></line>
+                <line></line>
+            </text>
+        </paragraph>
+
+        <paragraph name="Mother's mean age at first birth">
+            <text></text>
+        </paragraph>
+
+        <paragraph name="Maternal mortality rate">
+            <text>
+                <line></line>
+                <line></line>
+            </text>
+        </paragraph>
+
+        <paragraph name="Infant mortality rate">
+            <text>
+                <line></line>
+                <line></line>
+                <line></line>
+                <line></line>
+            </text>
+        </paragraph>
+
+        <paragraph name="Life expectancy at birth">
+            <text>
+                <line></line>
+                <line></line>
+                <line></line>
+                <line></line>
+            </text>
+        </paragraph>
+    </section>
+
+    <section name="Government">
+    </section>
+
+    <section name="Economy">
+    </section>
+
+    <section name="Energy">
+    </section>
+
+    <section name="Communications">
+    </section>
+
+    <section name="Military and Security">
+    </section>
+
+    <section name="Transportation">
+    </section>
+
+    <section name="Transnational Issues">
+    </section>
+
+</country>
+
+
+<paragraph name="">
+    <text></text>
+</paragraph>
+
+<line></line>
