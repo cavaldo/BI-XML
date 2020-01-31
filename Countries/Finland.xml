@@ -252,6 +252,65 @@
     </section>
 
     <section name="Government">
+        <paragraph name="Country name">
+            <text>
+                <line>conventional long form: Republic of Finland</line>
+                <line>conventional short form: Finland</line>
+                <line>local long form: Suomen tasavalta/Republiken Finland</line>
+                <line>local short form: Suomi/Finland</line>
+                <line>etymology: name may derive from the ancient Fenni peoples who are first described as living in northeastern Europe in the first centuries A.D.</line>
+            </text>
+        </paragraph>
+
+        <paragraph name="Government type">
+            <text>parliamentary republic</text>
+        </paragraph>
+
+        <paragraph name="Capital">
+            <text>
+                <line>name: Helsinki</line>
+                <line>geographic coordinates: 60 10 N, 24 56 E</line>
+                <line>time difference: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)</line>
+                <line>daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October</line>
+                <line>etymology: the name may derive from the Swedish "helsing," an archaic name for "neck" ("hals"), and which may refer to a narrowing of the Vantaa River that flows into the Gulf of Finland at Helsinki; "fors" refers to "rapids," so "helsing fors" meaning becomes "the narrows' rapids"</line>
+            </text>
+        </paragraph>
+
+        <paragraph name="Administrative divisions">
+            <text>19 regions (maakunnat, singular - maakunta (Finnish); landskapen, singular - landskapet (Swedish)); Aland (Swedish), Ahvenanmaa (Finnish); Etela-Karjala (Finnish), Sodra Karelen (Swedish) [South Karelia]; Etela-Pohjanmaa (Finnish), Sodra Osterbotten (Swedish) [South Ostrobothnia]; Etela-Savo (Finnish), Sodra Savolax (Swedish) [South Savo]; Kanta-Hame (Finnish), Egentliga Tavastland (Swedish); Kainuu (Finnish), Kajanaland (Swedish); Keski-Pohjanmaa (Finnish), Mellersta Osterbotten (Swedish) [Central Ostrobothnia]; Keski-Suomi (Finnish), Mellersta Finland (Swedish) [Central Finland]; Kymenlaakso (Finnish), Kymmenedalen (Swedish); Lappi (Finnish), Lappland (Swedish); Paijat-Hame (Finnish), Paijanne-Tavastland (Swedish); Pirkanmaa (Finnish), Birkaland (Swedish) [Tampere]; Pohjanmaa (Finnish), Osterbotten (Swedish) [Ostrobothnia]; Pohjois-Karjala (Finnish), Norra Karelen (Swedish) [North Karelia]; Pohjois-Pohjanmaa (Finnish), Norra Osterbotten (Swedish) [North Ostrobothnia]; Pohjois-Savo (Finnish), Norra Savolax (Swedish) [North Savo]; Satakunta (Finnish and Swedish); Uusimaa (Finnish), Nyland (Swedish) [Newland]; Varsinais-Suomi (Finnish), Egentliga Finland (Swedish) [Southwest Finland]</text>
+        </paragraph>
+
+        <paragraph name="Independence">
+            <text>6 December 1917 (from Russia)</text>
+        </paragraph>
+
+        <paragraph name="National holiday">
+            <text>Independence Day, 6 December (1917)</text>
+        </paragraph>
+
+        <paragraph name="Constitution">
+            <text>
+                <line>history: previous 1906, 1919; latest drafted 17 June 1997, approved by Parliament 11 June 1999, entered into force 1 March 2000</line>
+                <line>amendments: proposed by Parliament; passage normally requires simple majority vote in two readings in the first parliamentary session and at least two-thirds majority vote in a single reading by the newly elected Parliament; proposals declared "urgent" by five-sixths of Parliament members can be passed by at least two-thirds majority vote in the first parliamentary session only; amended several times, last in 2012 (2016)</line>
+            </text>
+        </paragraph>
+
+        <paragraph name="Legal system">
+            <text>civil law system based on the Swedish model</text>
+        </paragraph>
+
+        <paragraph name="Citizenship">
+            <text>
+                <line>citizenship by birth: no</line>
+                <line>citizenship by descent only: at least one parent must be a citizen of Finland</line>
+                <line>dual citizenship recognized: yes</line>
+                <line>residency requirement for naturalization: 6 years</line>
+            </text>
+        </paragraph>
+
+        <paragraph name="Suffrage">
+            <text>18 years of age; universal</text>
+        </paragraph>
     </section>
 
     <section name="Economy">

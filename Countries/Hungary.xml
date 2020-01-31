@@ -246,4 +246,67 @@
         </paragraph>
     </section>
 
+    <section name="Government">
+        <paragraph name="Country name">
+            <text>
+                <line>conventional long form: none</line>
+                <line>conventional short form: Hungary</line>
+                <line>local long form: none</line>
+                <line>local short form: Magyarorszag</line>
+                <line>former: Kingdom of Hungary, Hungarian People's Republic, Hungarian Soviet Republic, Hungarian Republic</line>
+                <line>etymology: the Byzantine Greeks refered to the tribes that arrived on the steppes of Eastern Europe in the 9th century as the "Oungroi," a name that was later Latinized to "Ungri" and which became "Hungari"; the name originally meant an "[alliance of] ten tribes"; the Hungarian name "Magyarorszag" means "Country of the Magyars"; the term may derive from the most prominent of the Hungarian tribes, the Megyer</line>
+            </text>
+        </paragraph>
+
+        <paragraph name="Government type">
+            <text>parliamentary republic</text>
+        </paragraph>
+
+        <paragraph name="Capital">
+            <text>
+                <line>name: Budapest</line>
+                <line>geographic coordinates: 47 30 N, 19 05 E</line>
+                <line>time difference: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)</line>
+                <line>daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October</line>
+                <line>etymology: the Hungarian capital city was formed in 1873 from the merger of three cities on opposite banks of the Danube: Buda and Obuda (Old Buda) on the western shore and Pest on the eastern; the origins of the original names are obscure, but according to the second century A.D. geographer, Ptolemy, the settlement that would become Pest was called "Pession" in ancient times; "Buda" may derive from either a Slavic or Turkic personal name</line>
+            </text>
+        </paragraph>
+
+        <paragraph name="Administrative divisions">
+            <text>19 counties (megyek, singular - megye), 23 cities with county rights (megyei jogu varosok, singular - megyei jogu varos), and 1 capital city (fovaros)</text>
+        </paragraph>
+
+        <paragraph name="Independence">
+            <text>16 November 1918 (republic proclaimed); notable earlier dates: 25 December 1000 (crowning of King STEPHEN I, traditional founding date); 30 March 1867 (Austro-Hungarian dual monarchy established)</text>
+        </paragraph>
+
+        <paragraph name="National holiday">
+            <text>Saint Stephen's Day, 20 August (1083); note - commemorates his canonization and the transfer of his remains to Buda (now Budapest) in 1083</text>
+        </paragraph>
+
+        <paragraph name="Constitution">
+            <text>
+                <line>history: previous 1949 (heavily amended in 1989 following the collapse of communism); latest approved 18 April 2011, signed 25 April 2011, effective 1 January 2012</line>
+                <line>amendments: proposed by the president of the republic, by the government, by parliamentary committee, or by Parliament members; passage requires two-thirds majority vote of Parliament members and approval by the president; amended several times, last in 2018 (2019)</line>
+            </text>
+        </paragraph>
+
+        <paragraph name="Legal system">
+            <text>civil legal system influenced by the German model</text>
+        </paragraph>
+
+        <paragraph name="Citizenship">
+            <text>
+                <line>citizenship by birth: no</line>
+                <line>citizenship by descent only: at least one parent must be a citizen of Hungary</line>
+                <line>dual citizenship recognized: yes</line>
+                <line>residency requirement for naturalization: 8 years</line>
+            </text>
+        </paragraph>
+
+        <paragraph name="Suffrage">
+            <text>18 years of age, 16 if married and marriage is registered in Hungary; universal</text>
+        </paragraph>
+    </section>
+
 </country>

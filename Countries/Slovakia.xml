@@ -247,6 +247,65 @@
     </section>
 
     <section name="Government">
+        <paragraph name="Country name">
+            <text>
+                <line>conventional long form: Slovak Republic</line>
+                <line>conventional short form: Slovakia</line>
+                <line>local long form: Slovenska republika/line>
+                <line>local short form: Slovensko</line>
+                <line>etymology: may derive from the medieval Latin word "Slavus" (Slav), which had the local form "Sloven", used since the 13th century to refer to the territory of Slovakia and its inhabitants</line>
+            </text>
+        </paragraph>
+
+        <paragraph name="Government type">
+            <text>parliamentary republic</text>
+        </paragraph>
+
+        <paragraph name="Capital">
+            <text>
+                <line>name: Bratislava</line>
+                <line>geographic coordinates: 48 09 N, 17 07 E</line>
+                <line>time difference: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)</line>
+                <line>daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October</line>
+                <line>etymology: the name was adopted in 1919 after Czechoslovakia gained its independence and may derive from later transliterations of the 9th century military commander, Braslav, or the 11th century Bohemian Duke Bretislav I; alternatively, the name may derive from the Slovak words "brat" (brother) and "slava" (glory)</line>
+            </text>
+        </paragraph>
+
+        <paragraph name="Administrative divisions">
+            <text>8 regions (kraje, singular - kraj); Banskobystricky, Bratislavsky, Kosicky, Nitriansky, Presovsky, Trenciansky, Trnavsky, Zilinsky</text>
+        </paragraph>
+
+        <paragraph name="Independence">
+            <text>1 January 1993 (Czechoslovakia split into the Czech Republic and Slovakia)</text>
+        </paragraph>
+
+        <paragraph name="National holiday">
+            <text>Constitution Day, 1 September (1992)</text>
+        </paragraph>
+
+        <paragraph name="Constitution">
+            <text>
+                <line>history: several previous (preindependence); latest passed by the National Council 1 September 1992, signed 3 September 1992, effective 1 October 1992</line>
+                <line>amendments: proposed by the National Council; passage requires at least three-fifths majority vote of Council members; amended many times, last in 2017 (2017)</line>
+            </text>
+        </paragraph>
+
+        <paragraph name="Legal system">
+            <text>civil law system based on Austro-Hungarian codes; note - legal code modified to comply with the obligations of Organization on Security and Cooperation in Europe</text>
+        </paragraph>
+
+        <paragraph name="Citizenship">
+            <text>
+                <line>citizenship by birth: no</line>
+                <line>citizenship by descent only: at least one parent must be a citizen of Slovakia</line>
+                <line>dual citizenship recognized: no</line>
+                <line>residency requirement for naturalization: 5 years</line>
+            </text>
+        </paragraph>
+
+        <paragraph name="Suffrage">
+            <text>18 years of age; universal</text>
+        </paragraph>
     </section>
 
     <section name="Economy">
