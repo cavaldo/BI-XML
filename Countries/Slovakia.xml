@@ -504,12 +504,118 @@
     </section>
 
     <section name="Military and Security">
+        <paragraph name="Military expeditures">
+            <text>
+                <line>1.74% of GDP (2019 est.)</line>
+                <line>1.22% of GDP (2018)</line>
+                <line>1.1% of GDP (2017)</line>
+                <line>1.12% of GDP (2016)</line>
+                <line>1.12% of GDP (2015)</line>
+                <line>country comparison to the world: 66</line>
+            </text>
+        </paragraph>
+
+        <paragraph name="Military and security forces">
+            <text>Armed Forces of the Slovak Republic (Ozbrojene Sily Slovenskej Republiky): Land Forces, Air and Air Defense Forces, and a Joint Training and Support Command (2019)</text>
+        </paragraph>
+
+        <paragraph name="Military service age and obligation">
+            <text>18-30 years of age for voluntary military service; conscription in peacetime suspended in 2006; women are eligible to serve (2012)</text>
+        </paragraph>
     </section>
 
     <section name="Transportation">
+        <paragraph name="National air transport system">
+            <text>
+                <line>number of registered air carriers: 4 (2015)</line>
+                <line>inventory of registered aircraft operated by air carriers: 23 (2015)</line>
+                <line>annual passenger traffic on registered air carriers: 11,100 (2015)</line>
+                <line>annual freight traffic on registered air carriers: 0 mt-km (2015)</line>
+            </text>
+        </paragraph>
+
+        <paragraph name="Civil aircraft registration country code prefix">
+            <text>OM (2016)</text>
+        </paragraph>
+
+        <paragraph name="Airports">
+            <text>
+                <line>35 (2013)</line>
+                <line>country comparison to the world: 111</line>
+            </text>
+        </paragraph>
+
+        <paragraph name="Airports - with paved runways">
+            <text>
+                <line>total: 19 (2019)</line>
+                <line>over 3,047 m: 2</line>
+                <line>2,438 to 3,047 m: 2</line>
+                <line>1,524 to 2,437 m: 3</line>
+                <line>914 to 1,523 m: 3</line>
+                <line>under 914 m: 9</line>
+            </text>
+        </paragraph>
+
+        <paragraph name="Airports - with unpaved runways">
+            <text>
+                <line>total: 15 (2019)</line>
+                <line>914 to 1,523 m: 10</line>
+                <line>under 914 m: 5</line>
+            </text>
+        </paragraph>
+
+        <paragraph name="Heliports">
+            <text>1 (2019)</text>
+        </paragraph>
+
+        <paragraph name="Pipelines">
+            <text>2270 km gas transmission pipelines, 6278 km high-pressure gas distribution pipelines, 27023 km mid- and low-pressure gas distribution pipelines (2016), 510 km oil (2015)</text>
+        </paragraph>
+
+        <paragraph name="Railways">
+            <text>
+                <line>total: 3,580 km (2016)</line>
+                <line>standard gauge: 3,435 km 1.435-m gauge (1,587 km electrified) (2016)</line>
+                <line>narrow gauge: 46 km 1.000-m or 0.750-m gauge (2016)</line>
+                <line>broad gauge: 99 km 1.520-m gauge (2016)</line>
+                <line>country comparison to the world: 56</line>
+            </text>
+        </paragraph>
+
+        <paragraph name="Roadways">
+            <text>
+                <line>total: 56,926 km (includes local roads, national roads, and 464 km of highways) (2016)</line>
+                <line>country comparison to the world: 80</line>
+            </text>
+        </paragraph>
+
+        <paragraph name="Waterways">
+            <text>
+                <line>172 km (on Danube River) (2012)</line>
+                <line>country comparison to the world: 99</line>
+            </text>
+        </paragraph>
+
+        <paragraph name="Ports and terminals">
+            <text>river port(s): Bratislava, Komarno (Danube)</text>
+        </paragraph>
     </section>
 
     <section name="Transnational Issues">
+        <paragraph name="Disputes - international">
+            <text>bilateral government, legal, technical and economic working group negotiations continued between Slovakia and Hungary over Hungary's completion of its portion of the Gabcikovo-Nagymaros hydroelectric dam project along the Danube; as a member state that forms part of the EU's external border, Slovakia has implemented strict Schengen border rules</text>
+        </paragraph>
+
+        <paragraph name="Refugees and internally displaced persons">
+            <text>
+                <line>refugees (country of origin): 0 (2018)</line>
+                <line>stateless persons: 1,523 (2018)</line>
+            </text>
+        </paragraph>
+
+        <paragraph name="Illicit drugs">
+            <text>transshipment point for Southwest Asian heroin bound for Western Europe; producer of synthetic drugs for regional market; consumer of ecstasy</text>
+        </paragraph>
     </section>
 
 </country>

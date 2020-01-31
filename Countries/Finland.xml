@@ -509,12 +509,119 @@
     </section>
 
     <section name="Military and Security">
+        <paragraph name="Military expeditures">
+            <text>
+                <line>1.29% of GDP (2019)</line>
+                <line>1.23% of GDP (2018)</line>
+                <line>1.26% of GDP (2017)</line>
+                <line>1.31% of GDP (2016)</line>
+                <line>1.29% of GDP (2015)</line>
+                <line>country comparison to the world: 95</line>
+            </text>
+        </paragraph>
+
+        <paragraph name="Military and security forces">
+            <text>Finnish Defense Forces (FDF): Army (Maavoimat), Navy (Merivoimat), Air Force (Ilmavoimat), Border Guard (Rajavartiolaitos) (2019)</text>
+        </paragraph>
+
+        <paragraph name="Military service age and obligation">
+            <text>at age 18, all Finnish men are obligated to serve 6-12 months of service within a branch of the military or the Border Guard, and women may volunteer for service; after completing their initial conscript obligation, individuals enter the reserves and remain eligible for mobilization until the age of 60 (2019)</text>
+        </paragraph>
     </section>
 
     <section name="Transportation">
+        <paragraph name="National air transport system">
+            <text>
+                <line>number of registered air carriers: 3 (2015)</line>
+                <line>inventory of registered aircraft operated by air carriers: 73 (2015)</line>
+                <line>annual passenger traffic on registered air carriers: 9,972,333 (2015)</line>
+                <line>annual freight traffic on registered air carriers: 713.484 million mt-km (2015)</line>
+            </text>
+        </paragraph>
+
+        <paragraph name="Civil aircraft registration country code prefix">
+            <text>OH (2016)</text>
+        </paragraph>
+
+        <paragraph name="Airports">
+            <text>
+                <line>148 (2013)</line>
+                <line>country comparison to the world: 38</line>
+            </text>
+        </paragraph>
+
+        <paragraph name="Airports - with paved runways">
+            <text>
+                <line>total: 74 (2017)</line>
+                <line>over 3,047 m: 3 (2017)</line>
+                <line>2,438 to 3,047 m: 26 (2017)</line>
+                <line>1,524 to 2,437 m: 10 (2017)</line>
+                <line>914 to 1,523 m: 21 (2017)</line>
+                <line>under 914 m: 14 (2017)</line>
+            </text>
+        </paragraph>
+
+        <paragraph name="Airports - with unpaved runways">
+            <text>
+                <line>total: 74 (2013)</line>
+                <line>914 to 1,523 m: 3 (2013)</line>
+                <line>under 914 m: 71 (2013)</line>
+            </text>
+        </paragraph>
+
+        <paragraph name="Heliports">
+            <text>1 (2019)</text>
+        </paragraph>
+
+        <paragraph name="Pipelines">
+            <text>1288 km gas transmission pipes, 1976 km distribution pipes (2016)</text>
+        </paragraph>
+
+        <paragraph name="Railways">
+            <text>
+                <line>total: 5,926 km (2016)</line>
+                <line>broad gauge: 5,926 km 1.524-m gauge (3,270 km electrified) (2016)</line>
+                <line>country comparison to the world: 32</line>
+            </text>
+        </paragraph>
+
+        <paragraph name="Roadways">
+            <text>
+                <line>total: 454,000 km (2012)</line>
+                <line>highways: 78,000 km (50,000 paved, including 700 km of expressways; 28,000 unpaved) (2012)</line>
+                <line>private and forest roads: 350,000 km (2012)</line>
+                <line>urban: 26,000 km (2012)</line>
+                <line>country comparison to the world: 16</line>
+            </text>
+        </paragraph>
+
+        <paragraph name="Waterways">
+            <text>
+                <line>8,000 km (includes Saimaa Canal system of 3,577 km; southern part leased from Russia; water transport used frequently in the summer and widely replaced with sledges on the ice in winter; there are 187,888 lakes in Finland that cover 31,500 km); Finland also maintains 8,200 km of coastal fairways (2013)</line>
+                <line>country comparison to the world: 17</line>
+            </text>
+        </paragraph>
+
+        <paragraph name="Ports and terminals">
+            <text>major seaport(s): Helsinki, Kotka, Naantali, Porvoo, Raahe, Rauma</text>
+        </paragraph>
     </section>
 
     <section name="Transnational Issues">
+        <paragraph name="Disputes - international">
+            <text>various groups in Finland advocate restoration of Karelia and other areas ceded to the former Soviet Union, but the Finnish Government asserts no territorial demands</text>
+        </paragraph>
+
+        <paragraph name="Refugees and internally displaced persons">
+            <text>
+                <line>refugees (country of origin): 8,523 (Iraq) (2018)</line>
+                <line>stateless persons: 2,759 (2018)</line>
+            </text>
+        </paragraph>
+
+        <paragraph name="Illicit drugs">
+            <text>none</text>
+        </paragraph>
     </section>
 
 </country>
