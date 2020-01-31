@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <country name="Slovakia">
+    <section name="introduction">
+      <paragraph name="background">
+         <text>Slovakia traces its roots to the 9th century state of Great Moravia. Subsequently, the Slovaks became part of the Hungarian Kingdom, where they remained for the next 1,000 years. After the formation of the dual Austro-Hungarian monarchy in 1867, backlash to language and education policies favoring the use of Hungarian (Magyarization) encouraged the strengthening of Slovak nationalism and a cultivation of cultural ties with the closely related Czechs, who fell administratively under the Austrian half of the empire. After the dissolution of the Austro-Hungarian Empire at the close of World War I, the Slovaks joined the Czechs to form Czechoslovakia. The new state was envisioned as a nation with Czech and Slovak branches. During the interwar period, Slovak nationalist leaders pushed for autonomy within Czechoslovakia, and in 1939 Slovakia became an independent state created by and allied with Nazi Germany. Following World War II, Czechoslovakia was reconstituted and came under communist rule within Soviet-dominated Eastern Europe. In 1968, an invasion by Warsaw Pact troops ended the efforts of Czechoslovakia's leaders to liberalize communist rule and create "socialism with a human face," ushering in a period of repression known as "normalization." The peaceful "Velvet Revolution" swept the Communist Party from power at the end of 1989 and inaugurated a return to democratic rule and a market economy. On 1 January 1993, Czechoslovakia underwent a nonviolent "velvet divorce" into its two national components, Slovakia and the Czech Republic. Slovakia joined both NATO and the EU in the spring of 2004 and the euro zone on 1 January 2009.</text>
+      </paragraph>
+   </section>
+
     <section name="Geography">
         <paragraph name="Location">
             <text>Central Europe, south of Poland</text>
@@ -102,116 +108,125 @@
 
     <section name="People and Society">
         <paragraph name="Population">
-            <text></text>
+            <text>
+                <line>5,440,602 (July 2020 est.)</line>
+                <line>country comparison to the world: 120</line>
+            </text>
         </paragraph>
 
         <paragraph name="Nationality">
-            <text></text>
+            <text>
+                <line>noun: Slovak(s)</line>
+                <line>adjective: Slovak</line>
+            </text>
         </paragraph>
 
         <paragraph name="Ethnic groups">
-            <text></text>
+            <text>
+                <line>Slovak 80.7%, Hungarian 8.5%, Romani 2%, other 1.8% (includes Czech, Ruthenian, Ukrainian, Russian, German, Polish), unspecified 7% (2011 est.)</line>
+                <line>note: data represent population by nationality; Romani populations are usually underestimated in official statistics and may represent 7–11% of Slovakia's population</line>
+            </text>
         </paragraph>
 
         <paragraph name="Languages">
-            <text></text>
+            <text>Slovak (official) 78.6%, Hungarian 9.4%, Roma 2.3%, Ruthenian 1%, other or unspecified 8.8% (2011 est.)</text>
         </paragraph>
 
         <paragraph name="Religions">
-            <text></text>
+            <text>Roman Catholic 62%, Protestant 8.2%, Greek Catholic 3.8%, other or unspecified 12.5%, none 13.4% (2011 est.)</text>
         </paragraph>
 
         <paragraph name="Age structure">
             <text>
-                <line></line>
-                <line></line>
-                <line></line>
-                <line></line>
-                <line></line>
+                <line>0-14 years: 15.13% (male 423,180/female 400,128)</line>
+                <line>15-24 years: 10.06% (male 280,284/female 266,838)</line>
+                <line>25-54 years: 44.61% (male 1,228,462/female 1,198,747)</line>
+                <line>55-64 years: 13.15% (male 342,124/female 373,452)</line>
+                <line>65 years and over: 17.05% (male 366,267/female 561,120) (2020 est.)</line>
             </text>
         </paragraph>
 
         <paragraph name="Dependency ratios">
             <text>
-                <line></line>
-                <line></line>
-                <line></line>
-                <line></line>
+                <line>total dependency ratio: 41.5 (2015 est.)</line>
+                <line>youth dependency ratio: 21.6 (2015 est.)</line>
+                <line>elderly dependency ratio: 19.9 (2015 est.)</line>
+                <line>potential support ratio: 5 (2015 est.)</line>
             </text>
         </paragraph>
 
         <paragraph name="Median age">
             <text>
-                <line></line>
-                <line></line>
-                <line></line>
-                <line></line>
+                <line>total: 41.8 years</line>
+                <line>male: 40.1 years</line>
+                <line>female: 43.6 years (2020 est.)</line>
+                <line>country comparison to the world: 41</line>
             </text>
         </paragraph>
 
         <paragraph name="Population growth rate">
             <text>
-                <line></line>
-                <line></line>
+                <line>-0.05% (2020 est.)</line>
+                <line>country comparison to the world: 199</line>
             </text>
         </paragraph>
 
         <paragraph name="Birth rate">
             <text>
-                <line></line>
-                <line></line>
+                <line>9.3 births/1,000 population (2020 est.)</line>
+                <line>country comparison to the world: 203</line>
             </text>
         </paragraph>
 
         <paragraph name="Death rate">
             <text>
-                <line></line>
-                <line></line>
+                <line>10.1 deaths/1,000 population (2020 est.)</line>
+                <line>country comparison to the world: 37</line>
             </text>
         </paragraph>
 
         <paragraph name="Net migration rate">
             <text>
-                <line></line>
-                <line></line>
+                <line>0.2 migrant(s)/1,000 population (2020 est.)</line>
+                <line>country comparison to the world: 72</line>
             </text>
         </paragraph>
 
         <paragraph name="Population distribution">
-            <text></text>
+            <text>a fairly even distribution throughout most of the country; slightly larger concentration in the west in proximity to the Czech border</text>
         </paragraph>
 
         <paragraph name="Urbanization">
             <text>
-                <line></line>
-                <line></line>
+                <line>urban population: 53.8% of total population (2020)</line>
+                <line>rate of urbanization: 0% annual rate of change (2015-20 est.)</line>
             </text>
         </paragraph>
 
         <paragraph name="Major urban areas">
-            <text></text>
+            <text>433,000 BRATISLAVA (capital) (2019)</text>
         </paragraph>
 
         <paragraph name="Sex ratio">
             <text>
-                <line></line>
-                <line></line>
-                <line></line>
-                <line></line>
-                <line></line>
-                <line></line>
-                <line></line>
+                <line>at birth: 1.07 male(s)/female (2020 est.)</line>
+                <line>0-14 years: 1.06 male(s)/female (2020 est.)</line>
+                <line>15-24 years: 1.05 male(s)/female (2020 est.)</line>
+                <line>25-54 years: 1.02 male(s)/female (2020 est.)</line>
+                <line>55-64 years: 0.92 male(s)/female (2020 est.)</line>
+                <line>65 years and over: 0.65 male(s)/female (2020 est.)</line>
+                <line>total population: 94.3 male(s)/female (2020 est.)</line>
             </text>
         </paragraph>
 
         <paragraph name="Mother's mean age at first birth">
-            <text></text>
+            <text>27.6 years (2014 est.)</text>
         </paragraph>
 
         <paragraph name="Maternal mortality rate">
             <text>
-                <line></line>
-                <line></line>
+                <line>5 deaths/100,000 live births (2017 est.)</line>
+                <line>country comparison to the world: 170</line>
             </text>
         </paragraph>
 
@@ -226,10 +241,10 @@
 
         <paragraph name="Life expectancy at birth">
             <text>
-                <line></line>
-                <line></line>
-                <line></line>
-                <line></line>
+                <line>total: 4.9 deaths/1,000 live births</line>
+                <line>male: 5.5 deaths/1,000 live births</line>
+                <line>female: 4.3 deaths/1,000 live births (2020 est.)</line>
+                <line>country comparison to the world: 179</line>
             </text>
         </paragraph>
     </section>
