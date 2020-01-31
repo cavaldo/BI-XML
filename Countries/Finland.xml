@@ -314,6 +314,78 @@
     </section>
 
     <section name="Economy">
+        <paragraph name="Economy - overview">
+            <text>Finland has a highly industrialized, largely free-market economy with per capita GDP almost as high as that of Austria and the Netherlands and slightly above that of Germany and Belgium. Trade is important, with exports accounting for over one-third of GDP in recent years. The government is open to, and actively takes steps to attract, foreign direct investment. Finland is historically competitive in manufacturing, particularly in the wood, metals, engineering, telecommunications, and electronics industries. Finland excels in export of technology as well as promotion of startups in the information and communications technology, gaming, cleantech, and biotechnology sectors. Except for timber and several minerals, Finland depends on imports of raw materials, energy, and some components for manufactured goods. Because of the cold climate, agricultural development is limited to maintaining self-sufficiency in basic products. Forestry, an important export industry, provides a secondary occupation for the rural population. Finland had been one of the best performing economies within the EU before 2009 and its banks and financial markets avoided the worst of global financial crisis. However, the world slowdown hit exports and domestic demand hard in that year, causing Finland’s economy to contract from 2012 to 2014. The recession affected general government finances and the debt ratio. The economy returned to growth in 2016, posting a 1.9% GDP increase before growing an estimated 3.3% in 2017, supported by a strong increase in investment, private consumption, and net exports. Finnish economists expect GDP to grow a rate of 2-3% in the next few years. Finland's main challenges will be reducing high labor costs and boosting demand for its exports. In June 2016, the government enacted a Competitiveness Pact aimed at reducing labor costs, increasing hours worked, and introducing more flexibility into the wage bargaining system. As a result, wage growth was nearly flat in 2017. The Government was also seeking to reform the health care system and social services. In the long term, Finland must address a rapidly aging population and decreasing productivity in traditional industries that threaten competitiveness, fiscal sustainability, and economic growth.</text>
+        </paragraph>
+
+        <paragraph name="GDP (purchasing power parity)">
+            <text>
+                <line>$244.9 billion (2017 est.)</line>
+                <line>$238.2 billion (2016 est.)</line>
+                <line>$232.4 billion (2015 est.)</line>
+                <line>note: data are in 2017 dollars</line>
+                <line>country comparison to the world: 62</line>
+            </text>
+        </paragraph>
+
+        <paragraph name="GDP (official exchange rate)">
+            <text>$252.8 billion (2017 est.)</text>
+        </paragraph>
+
+        <paragraph name="GDP - real growth rate">
+            <text>
+                <line>2.8% (2017 est.)</line>
+                <line>2.5% (2016 est.)</line>
+                <line>0.1% (2015 est.)</line>
+                <line>country comparison to the world: 122</line>
+            </text>
+        </paragraph>
+
+        <paragraph name="GDP - per capita (PPP)">
+            <text>
+                <line>$44,500 (2017 est.)</line>
+                <line>$43,400 (2016 est.)</line>
+                <line>$42,500 (2015 est.)</line>
+                <line>note: data are in 2017 dollars</line>
+                <line>country comparison to the world: 38</line>
+            </text>
+        </paragraph>
+
+        <paragraph name="Gross national saving">
+            <text>
+                <line>23.3% of GDP (2017 est.)</line>
+                <line>21.7% of GDP (2016 est.)</line>
+                <line>20% of GDP (2015 est.)</line>
+                <line>country comparison to the world: 73</line>
+            </text>
+        </paragraph>
+
+        <paragraph name="GDP - composition, by end use">
+            <text>
+                <line>household consumption: 54.4% (2017 est.)</line>
+                <line>government consumption: 22.9% (2017 est.)</line>
+                <line>investment in fixed capital: 22.1% (2017 est.)</line>
+                <line>investment in inventories: 0.4% (2017 est.)</line>
+                <line>exports of goods and services: 38.5% (2017 est.)</line>
+                <line>imports of goods and services: -38.2% (2017 est.)</line>
+            </text>
+        </paragraph>
+
+        <paragraph name="GDP - composition, by sector of origin">
+            <text>
+                <line>agriculture: 2.7% (2017 est.)</line>
+                <line>industry: 28.2% (2017 est.)</line>
+                <line>services: 69.1% (2017 est.)</line>
+            </text>
+        </paragraph>
+
+        <paragraph name="Agriculture - products">
+            <text>barley, wheat, sugar beets, potatoes; dairy cattle; fish</text>
+        </paragraph>
+
+        <paragraph name="Industries">
+            <text>metals and metal products, electronics, machinery and scientific instruments, shipbuilding, pulp and paper, foodstuffs, chemicals, textiles, clothing</text>
+        </paragraph>
     </section>
 
     <section name="Energy">
@@ -332,10 +404,3 @@
     </section>
 
 </country>
-
-
-<paragraph name="">
-    <text></text>
-</paragraph>
-
-<line></line>

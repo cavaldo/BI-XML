@@ -309,6 +309,78 @@
     </section>
 
     <section name="Economy">
+        <paragraph name="Economy - overview">
+            <text>Slovakia’s economy suffered from a slow start in the first years after its separation from the Czech Republic in 1993, due to the country’s authoritarian leadership and high levels of corruption, but economic reforms implemented after 1998 have placed Slovakia on a path of strong growth. With a population of 5.4 million, the Slovak Republic has a small, open economy driven mainly by automobile and electronics exports, which account for more than 80% of GDP. Slovakia joined the EU in 2004 and the euro zone in 2009. The country’s banking sector is sound and predominantly foreign owned. Slovakia has been a regional FDI champion for several years, attractive due to a relatively low-cost yet skilled labor force, and a favorable geographic location in the heart of Central Europe. Exports and investment have been key drivers of Slovakia’s robust growth in recent years. The unemployment rate fell to historical lows in 2017, and rising wages fueled increased consumption, which played a more prominent role in 2017 GDP growth. A favorable outlook for the Eurozone suggests continued strong growth prospects for Slovakia during the next few years, although inflation is also expected to pick up. Among the most pressing domestic issues potentially threatening the attractiveness of the Slovak market are shortages in the qualified labor force, persistent corruption issues, and an inadequate judiciary, as well as a slow transition to an innovation-based economy. The energy sector in particular is characterized by unpredictable regulatory oversight and high costs, in part driven by government interference in regulated tariffs. Moreover, the government’s attempts to maintain low household energy prices could harm the profitability of domestic energy firms while undercutting energy efficiency initiatives.</text>
+        </paragraph>
+
+        <paragraph name="GDP (purchasing power parity)">
+            <text>
+                <line>$179.7 billion (2017 est.)</line>
+                <line>$173.8 billion (2016 est.)</line>
+                <line>$168.2 billion (2015 est.)</line>
+                <line>note: data are in 2017 dollars</line>
+                <line>country comparison to the world: 69</line>
+            </text>
+        </paragraph>
+
+        <paragraph name="GDP (official exchange rate)">
+            <text>$95.96 billion (2017 est.)</text>
+        </paragraph>
+
+        <paragraph name="GDP - real growth rate">
+            <text>
+                <line>3.4% (2017 est.)</line>
+                <line>3.3% (2016 est.)</line>
+                <line>3.9% (2015 est.)</line>
+                <line>country comparison to the world: 102</line>
+            </text>
+        </paragraph>
+
+        <paragraph name="GDP - per capita (PPP)">
+            <text>
+                <line>$33,100 (2017 est.)</line>
+                <line>$32,000 (2016 est.)</line>
+                <line>$31,000 (2015 est.)</line>
+                <line>note: data are in 2017 dollars</line>
+                <line>country comparison to the world: 61</line>
+            </text>
+        </paragraph>
+
+        <paragraph name="Gross national saving">
+            <text>
+                <line>20.6% of GDP (2017 est.)</line>
+                <line>21.1% of GDP (2016 est.)</line>
+                <line>22.5% of GDP (2015 est.)</line>
+                <line>country comparison to the world: 92</line>
+            </text>
+        </paragraph>
+
+        <paragraph name="GDP - composition, by end use">
+            <text>
+                <line>household consumption: 54.7% (2017 est.)</line>
+                <line>government consumption: 19.2% (2017 est.)</line>
+                <line>investment in fixed capital: 21.2% (2017 est.)</line>
+                <line>investment in inventories: 1.2% (2017 est.)</line>
+                <line>exports of goods and services: 96.3% (2017 est.)</line>
+                <line>imports of goods and services: -92.9% (2017 est.)</line>
+            </text>
+        </paragraph>
+
+        <paragraph name="GDP - composition, by sector of origin">
+            <text>
+                <line>agriculture: 3.8% (2017 est.)</line>
+                <line>industry: 35% (2017 est.)</line>
+                <line>services: 61.2% (2017 est.)</line>
+            </text>
+        </paragraph>
+
+        <paragraph name="Agriculture - products">
+            <text>grains, potatoes, sugar beets, hops, fruit; pigs, cattle, poultry; forest products</text>
+        </paragraph>
+
+        <paragraph name="Industries">
+            <text>automobiles; metal and metal products; electricity, gas, coke, oil, nuclear fuel; chemicals, synthetic fibers, wood and paper products; machinery; earthenware and ceramics; textiles; electrical and optical apparatus; rubber products; food and beverages; pharmaceutical</text>
+        </paragraph>
     </section>
 
     <section name="Energy">
@@ -327,10 +399,3 @@
     </section>
 
 </country>
-
-
-<paragraph name="">
-    <text></text>
-</paragraph>
-
-<line></line>
