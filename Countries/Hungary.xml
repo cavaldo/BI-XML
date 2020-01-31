@@ -384,4 +384,73 @@
         </paragraph>
     </section>
 
+    <section name="Energy">
+        <paragraph name="Electricity access">
+            <text>electrification - total population: 100% (2016)</text>
+        </paragraph>
+
+        <paragraph name="Electricity - production">
+            <text>
+                <line>30.22 billion kWh (2016 est.)</line>
+                <line>country comparison to the world: 64</line>
+            </text>
+        </paragraph>
+
+        <paragraph name="Electricity - consumption">
+            <text>
+                <line>39.37 billion kWh (2016 est.)</line>
+                <line>country comparison to the world: 56</line>
+            </text>
+        </paragraph>
+
+        <paragraph name="Electricity - exports">
+            <text>
+                <line>5.24 billion kWh (2016 est.)</line>
+                <line>country comparison to the world: 34</line>
+            </text>
+        </paragraph>
+
+        <paragraph name="Electricity - imports">
+            <text>
+                <line>17.95 billion kWh (2016 est.)</line>
+                <line>country comparison to the world: 13</line>
+            </text>
+        </paragraph>
+
+        <paragraph name="Electricity - installed generating capacity">
+            <text>
+                <line>8.639 million kW (2016 est.)</line>
+                <line>country comparison to the world: 67</line>
+            </text>
+        </paragraph>
+
+        <paragraph name="Electricity - from fossil fuels">
+            <text>
+                <line>64% of total installed capacity (2016 est.)</line>
+                <line>country comparison to the world: 122</line>
+            </text>
+        </paragraph>
+
+        <paragraph name="Electricity - from nuclear fuels">
+            <text>
+                <line>22% of total installed capacity (2017 est.)</line>
+                <line>country comparison to the world: 5</line>
+            </text>
+        </paragraph>
+
+        <paragraph name="Electricity - from hydroelectric plants">
+            <text>
+                <line>1% of total installed capacity (2017 est.)</line>
+                <line>country comparison to the world: 148</line>
+            </text>
+        </paragraph>
+
+        <paragraph name="Electricity - from other renewable sources">
+            <text>
+                <line>13% of total installed capacity (2017 est.)</line>
+                <line>country comparison to the world: 67</line>
+            </text>
+        </paragraph>
+    </section>
+
 </country>
