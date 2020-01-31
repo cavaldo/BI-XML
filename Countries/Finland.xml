@@ -458,6 +458,54 @@
     </section>
 
     <section name="Communications">
+        <paragraph name="Telephones - fixed lines">
+            <text>
+                <line>total subscriptions: 323,000</line>
+                <line>subscriptions per 100 inhabitants: 6 (2018 est.)</line>
+                <line>country comparison to the world: 110</line>          
+            </text>
+        </paragraph>
+
+        <paragraph name="Telephones - mobile cellular">
+            <text>
+                <line>total subscriptions: 7.15 million</line>
+                <line>subscriptions per 100 inhabitants: 129 (2018 est.)</line>
+                <line>country comparison to the world: 105</line>
+            </text>
+        </paragraph>
+
+        <paragraph name="Telephone system">
+            <text>
+                <line>general assessment: modern system with excellent service; one of the most progressive in Europe; one of the highest broadband and mobile penetrations rates in the region; forefront in testing 5G networks; for 2025 and 2030 FttP (fiber to the home) and DOCSIS3.1 (new generation of cable services for high speed connections) technologies (2018)</line>
+                <line>domestic: digital fiber-optic, fixed-line 7 per 100 subscription; 132 per 100 mobile-cellular (2018)</line>
+                <line>international: country code - 358; landing points for Botnia, BCS North-1 & 2, SFL, SFS-4, C-Lion1, Eastern Lights, Baltic Sea Submarine Cable, FEC, and EESF-2 & 3 submarine cables provide links to many Finland points, Estonia, Sweden, Germany, and Russia; satellite earth stations - access to Intelsat transmission service via a Swedish satellite earth station, 1 Inmarsat (Atlantic and Indian Ocean regions); note - Finland shares the Inmarsat earth station with the other Nordic countries (Denmark, Iceland, Norway, and Sweden) (2019)</line>
+            </text>
+        </paragraph>
+
+        <paragraph name="Broadcast media">
+            <text>a mix of 3 publicly operated TV stations and numerous privately owned TV stations; several free and special-interest pay-TV channels; cable and satellite multi-channel subscription services are available; all TV signals are broadcast digitally; Internet television, such as Netflix and others, is available; public broadcasting maintains a network of 13 national and 25 regional radio stations; a large number of private radio broadcasters and access to Internet radio</text>
+        </paragraph>
+
+        <paragraph name="Internet country code">
+            <text>.finote - Aland Islands assigned .ax</text>
+        </paragraph>
+
+        <paragraph name="Internet users">
+            <text>
+                <line>total: 4,822,132</line>
+                <line>percent of population: 87.7% (July 2016 est.)</line>
+                <line>country comparison to the world: 77</line>
+            </text>
+        </paragraph>
+
+        <paragraph name="Broadband - fixed subscriptions">
+            <text>
+                <line>total: 1.737 million</line>
+                <line>subscriptions per 100 inhabitants: 31 (2018 est.)</line>
+                <line>country comparison to the world: 58</line>
+            </text>
+        </paragraph>
+
     </section>
 
     <section name="Military and Security">

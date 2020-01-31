@@ -453,6 +453,54 @@
     </section>
 
     <section name="Communications">
+        <paragraph name="Telephones - fixed lines">
+            <text>
+                <line>total subscriptions: 722,704</line>
+                <line>subscriptions per 100 inhabitants: 13 (2018 est.)</line>
+                <line>country comparison to the world: 86</line>        
+            </text>
+        </paragraph>
+
+        <paragraph name="Telephones - mobile cellular">
+            <text>
+                <line>total subscriptions: 7,241,702</line>
+                <line>subscriptions per 100 inhabitants: 133 (2018 est.)</line>
+                <line>country comparison to the world: 103</line>
+            </text>
+        </paragraph>
+
+        <paragraph name="Telephone system">
+            <text>
+                <line>general assessment: a modern telecommunications system; near monopoly of fixed-line market; competition in mobile and fixed broadband market; poor mobile virtual network operator (MVNO); regulatory preparing for 5G; broadband growth in recent years; competition among DSL, cable and fiber platforms; wireless broadband options from mobile network operators; FttP growth in cities (2019)</line>
+                <line>domestic: four companies have a license to operate cellular networks and provide nationwide cellular services (cellular operators); a few other companies provide services but do not have their own networks; fixed-line 14 per 100 and mobile-cellular 131 per 100 teledesity (2018)</line>
+                <line>international: country code - 421; 3 international exchanges (1 in Bratislava and 2 in Banska Bystrica) are available; Slovakia is participating in several international telecommunications projects that will increase the availability of external services (2017)</line>
+            </text>
+        </paragraph>
+
+        <paragraph name="Broadcast media">
+            <text>state-owned public broadcaster, Radio and Television of Slovakia (RTVS), operates 2 national TV stations and multiple national and regional radio networks; roughly 50 privately owned TV stations operating nationally, regionally, and locally; about 40% of households are connected to multi-channel cable or satellite TV; 32 privately owned radio stations</text>
+        </paragraph>
+
+        <paragraph name="Internet country code">
+            <text>.sk</text>
+        </paragraph>
+
+        <paragraph name="Internet users">
+            <text>
+                <line>total: 4,382,558</line>
+                <line>percent of population: 80.5% (July 2016 est.)</line>
+                <line>country comparison to the world: 82</line>
+            </text>
+        </paragraph>
+
+        <paragraph name="Broadband - fixed subscriptions">
+            <text>
+                <line>total: 1,507,998</line>
+                <line>subscriptions per 100 inhabitants: 28 (2018 est.)</line>
+                <line>country comparison to the world: 64</line>
+            </text>
+        </paragraph>
+
     </section>
 
     <section name="Military and Security">
