@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <country name="Hungary">
+    <section name="introduction">
+      <paragraph name="background">
+         <text>Hungary became a Christian kingdom in A.D. 1000 and for many centuries served as a bulwark against Ottoman Turkish expansion in Europe. The kingdom eventually became part of the polyglot Austro-Hungarian Empire, which collapsed during World War I. The country fell under communist rule following World War II. In 1956, a revolt and an announced withdrawal from the Warsaw Pact were met with a massive military intervention by Moscow. Under the leadership of Janos KADAR in 1968, Hungary began liberalizing its economy, introducing so-called "Goulash Communism." Hungary held its first multiparty elections in 1990 and initiated a free market economy. It joined NATO in 1999 and the EU five years later.</text>
+      </paragraph>
+   </section>
+
     <section name="Geography">
         <paragraph name="Location">
             <text>Central Europe, northwest of Romania</text>
@@ -102,134 +108,140 @@
 
     <section name="People and Society">
         <paragraph name="Population">
-            <text></text>
+            <text>
+                <line>9,771,827 (July 2020 est.)</line>
+                <line>country comparison to the world: 93</line>
+            </text>
         </paragraph>
 
         <paragraph name="Nationality">
-            <text></text>
+            <text>
+                <line>noun: Hungarian(s)</line>
+                <line>adjective: Hungarian</line>
+            </text>
         </paragraph>
 
         <paragraph name="Ethnic groups">
-            <text></text>
+            <text>Hungarian 85.6%, Romani 3.2%, German 1.9%, other 2.6%, unspecified 14.1% (2011 est.)</text>
         </paragraph>
 
         <paragraph name="Languages">
-            <text></text>
+            <text>Hungarian (official) 99.6%, English 16%, German 11.2%, Russian 1.6%, Romanian 1.3%, French 1.2%, other 4.2% (2011 est.)</text>
         </paragraph>
 
         <paragraph name="Religions">
-            <text></text>
+            <text>Roman Catholic 37.2%, Calvinist 11.6%, Lutheran 2.2%, Greek Catholic 1.8%, other 1.9%, none 18.2%, no response 27.2% (2011 est.)</text>
         </paragraph>
 
         <paragraph name="Age structure">
             <text>
-                <line></line>
-                <line></line>
-                <line></line>
-                <line></line>
-                <line></line>
+                <line>0-14 years: 14.54% (male 731,542/female 689,739)</line>
+                <line>15-24 years: 10.43% (male 526,933/female 492,388)</line>
+                <line>25-54 years: 42.17% (male 2,075,763/female 2,044,664)</line>
+                <line>55-64 years: 12.17% (male 552,876/female 636,107)</line>
+                <line>65 years and over: 20.69% (male 773,157/female 1,248,658) (2020 est.)</line>
             </text>
         </paragraph>
 
         <paragraph name="Dependency ratios">
             <text>
-                <line></line>
-                <line></line>
-                <line></line>
-                <line></line>
+                <line>total dependency ratio: 46.9 (2015 est.)</line>
+                <line>youth dependency ratio: 21.2 (2015 est.)</line>
+                <line>elderly dependency ratio: 25.7 (2015 est.)</line>
+                <line>potential support ratio: 3.9 (2015 est.)</line>
             </text>
         </paragraph>
 
         <paragraph name="Median age">
             <text>
-                <line></line>
-                <line></line>
-                <line></line>
-                <line></line>
+                <line>total: 43.6 years</line>
+                <line>male: 41.5 years</line>
+                <line>female: 45.5 years (2020 est.)</line>
+                <line>country comparison to the world: 24</line>
             </text>
         </paragraph>
 
         <paragraph name="Population growth rate">
             <text>
-                <line></line>
-                <line></line>
+                <line>-0.28% (2020 est.)</line>
+                <line>country comparison to the world: 217</line>
             </text>
         </paragraph>
 
         <paragraph name="Birth rate">
             <text>
-                <line></line>
-                <line></line>
+                <line>8.8 births/1,000 population (2020 est.)</line>
+                <line>country comparison to the world: 208</line>
             </text>
         </paragraph>
 
         <paragraph name="Death rate">
             <text>
-                <line></line>
-                <line></line>
+                <line>12.9 deaths/1,000 population (2020 est.)</line>
+                <line>country comparison to the world: 10</line>
             </text>
         </paragraph>
 
         <paragraph name="Net migration rate">
             <text>
-                <line></line>
-                <line></line>
+                <line>1.3 migrant(s)/1,000 population (2020 est.)</line>
+                <line>country comparison to the world: 56</line>
             </text>
         </paragraph>
 
         <paragraph name="Population distribution">
-            <text></text>
+            <text>a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations</text>
         </paragraph>
 
         <paragraph name="Urbanization">
             <text>
-                <line></line>
-                <line></line>
+                <line>urban population: 71.9% of total population (2020)</line>
+                <line>rate of urbanization: 0.07% annual rate of change (2015-20 est.)</line>
             </text>
         </paragraph>
 
         <paragraph name="Major urban areas">
-            <text></text>
+            <text>1.764 million BUDAPEST (capital) (2019)</text>
         </paragraph>
 
         <paragraph name="Sex ratio">
             <text>
-                <line></line>
-                <line></line>
-                <line></line>
-                <line></line>
-                <line></line>
-                <line></line>
-                <line></line>
+                <line>at birth: 1.06 male(s)/female (2020 est.)</line>
+                <line>0-14 years: 1.06 male(s)/female (2020 est.)</line>
+                <line>15-24 years: 1.07 male(s)/female (2020 est.)</line>
+                <line>25-54 years: 1.02 male(s)/female (2020 est.)</line>
+                <line>55-64 years: 0.87 male(s)/female (2020 est.)</line>
+                <line>65 years and over: 0.62 male(s)/female (2020 est.)</line>
+                <line>total population: 91.2 male(s)/female (2020 est.)</line>
             </text>
         </paragraph>
 
         <paragraph name="Mother's mean age at first birth">
-            <text></text>
+            <text>28.3 years (2014 est.)</text>
         </paragraph>
 
         <paragraph name="Maternal mortality rate">
             <text>
-                <line></line>
-                <line></line>
+                <line>12 deaths/100,000 live births (2017 est.)</line>
+                <line>country comparison to the world: 139</line>
             </text>
         </paragraph>
 
         <paragraph name="Infant mortality rate">
             <text>
-                <line></line>
-                <line></line>
-                <line></line>
-                <line></line>
+                <line>total: 4.7 deaths/1,000 live births</line>
+                <line>male: 5 deaths/1,000 live births</line>
+                <line>female: 4.4 deaths/1,000 live births (2020 est.)</line>
+                <line>country comparison to the world: 180</line>
             </text>
         </paragraph>
 
         <paragraph name="Life expectancy at birth">
             <text>
-                <line></line>
-                <line></line>
-                <line></line>
-                <line></line>
+                <line>total population: 76.7 years</line>
+                <line>male: 73 years</line>
+                <line>female: 80.6 years (2020 est.)</line>
+                <line>country comparison to the world: 89</line>
             </text>
         </paragraph>
     </section>

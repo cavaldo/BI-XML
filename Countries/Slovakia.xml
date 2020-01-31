@@ -122,10 +122,7 @@
         </paragraph>
 
         <paragraph name="Ethnic groups">
-            <text>
-                <line>Slovak 80.7%, Hungarian 8.5%, Romani 2%, other 1.8% (includes Czech, Ruthenian, Ukrainian, Russian, German, Polish), unspecified 7% (2011 est.)</line>
-                <line>note: data represent population by nationality; Romani populations are usually underestimated in official statistics and may represent 7–11% of Slovakia's population</line>
-            </text>
+            <text>Slovak 80.7%, Hungarian 8.5%, Romani 2%, other 1.8% (includes Czech, Ruthenian, Ukrainian, Russian, German, Polish), unspecified 7% (2011 est.)</text>
         </paragraph>
 
         <paragraph name="Languages">
@@ -232,19 +229,19 @@
 
         <paragraph name="Infant mortality rate">
             <text>
-                <line></line>
-                <line></line>
-                <line></line>
-                <line></line>
+                <line>total: 4.9 deaths/1,000 live births</line>
+                <line>male: 5.5 deaths/1,000 live births</line>
+                <line>female: 4.3 deaths/1,000 live births (2020 est.)</line>
+                <line>country comparison to the world: 179</line>
             </text>
         </paragraph>
 
         <paragraph name="Life expectancy at birth">
             <text>
-                <line>total: 4.9 deaths/1,000 live births</line>
-                <line>male: 5.5 deaths/1,000 live births</line>
-                <line>female: 4.3 deaths/1,000 live births (2020 est.)</line>
-                <line>country comparison to the world: 179</line>
+                <line>total population: 77.8 years</line>
+                <line>male: 74.3 years</line>
+                <line>female: 81.6 years (2020 est.)</line>
+                <line>country comparison to the world: 75</line>
             </text>
         </paragraph>
     </section>

@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <country name="Finland">
+    <section name="introduction">
+      <paragraph name="background">
+         <text>Finland was a province and then a grand duchy under Sweden from the 12th to the 19th centuries, and an autonomous grand duchy of Russia after 1809. It gained complete independence in 1917. During World War II, Finland successfully defended its independence through cooperation with Germany and resisted subsequent invasions by the Soviet Union - albeit with some loss of territory. In the subsequent half century, Finland transformed from a farm/forest economy to a diversified modern industrial economy; per capita income is among the highest in Western Europe. A member of the EU since 1995, Finland was the only Nordic state to join the euro single currency at its initiation in January 1999. In the 21st century, the key features of Finland's modern welfare state are high quality education, promotion of equality, and a national social welfare system - currently challenged by an aging population and the fluctuations of an export-driven economy.</text>
+      </paragraph>
+   </section>
+
     <section name="Geography">
         <paragraph name="Location">
             <text>Northern Europe, bordering the Baltic Sea, Gulf of Bothnia, and Gulf of Finland, between Sweden and Russia</text>
@@ -107,134 +113,140 @@
 
     <section name="People and Society">
         <paragraph name="Population">
-            <text></text>
+            <text>
+                <line>5,571,665 (July 2020 est.)</line>
+                <line>country comparison to the world: 116</line>
+            </text>
         </paragraph>
 
         <paragraph name="Nationality">
-            <text></text>
+            <text>
+                <line>noun: Finn(s)</line>
+                <line>adjective: Finnish</line>
+            </text>
         </paragraph>
 
         <paragraph name="Ethnic groups">
-            <text></text>
+            <text>Finn, Swede, Russian, Estonian, Romani, Sami</text>
         </paragraph>
 
         <paragraph name="Languages">
-            <text></text>
+            <text>Finnish (official) 87.6%, Swedish (official) 5.2%, Russian 1.4%, other 5.8% (2018 est.)</text>
         </paragraph>
 
         <paragraph name="Religions">
-            <text></text>
+            <text>Lutheran 69.8%, Greek Orthodox 1.1%, other 1.7%, unspecified 27.4% (2018 est.)</text>
         </paragraph>
 
         <paragraph name="Age structure">
             <text>
-                <line></line>
-                <line></line>
-                <line></line>
-                <line></line>
-                <line></line>
+                <line>0-14 years: 16.41% (male 467,220/female 447,005)</line>
+                <line>15-24 years: 10.95% (male 312,179/female 297,717)</line>
+                <line>25-54 years: 37.37% (male 1,064,326/female 1,017,545)</line>
+                <line>55-64 years: 13.02% (male 357,687/female 367,610)</line>
+                <line>65 years and over: 22.26% (male 543,331/female 697,045) (2020 est.)</line>
             </text>
         </paragraph>
 
         <paragraph name="Dependency ratios">
             <text>
-                <line></line>
-                <line></line>
-                <line></line>
-                <line></line>
+                <line>total dependency ratio: 57.9 (2015 est.)</line>
+                <line>youth dependency ratio: 25.9 (2015 est.)</line>
+                <line>elderly dependency ratio: 32 (2015 est.)</line>
+                <line>potential support ratio: 3.1 (2015 est.)</line>
             </text>
         </paragraph>
 
         <paragraph name="Median age">
             <text>
-                <line></line>
-                <line></line>
-                <line></line>
-                <line></line>
+                <line>total: 42.8 years</line>
+                <line>male: 41.3 years</line>
+                <line>female: 44.4 years (2020 est.)</line>
+                <line>country comparison to the world: 31</line>
             </text>
         </paragraph>
 
         <paragraph name="Population growth rate">
             <text>
-                <line></line>
-                <line></line>
+                <line>0.3% (2020 est.)</line>
+                <line>country comparison to the world: 171</line>
             </text>
         </paragraph>
 
         <paragraph name="Birth rate">
             <text>
-                <line></line>
-                <line></line>
+                <line>10.6 births/1,000 population (2020 est.)</line>
+                <line>country comparison to the world: 186</line>
             </text>
         </paragraph>
 
         <paragraph name="Death rate">
             <text>
-                <line></line>
-                <line></line>
+                <line>10.3 deaths/1,000 population (2020 est.)</line>
+                <line>country comparison to the world: 31</line>
             </text>
         </paragraph>
 
         <paragraph name="Net migration rate">
             <text>
-                <line></line>
-                <line></line>
+                <line>2.6 migrant(s)/1,000 population (2020 est.)</line>
+                <line>country comparison to the world: 40</line>
             </text>
         </paragraph>
 
         <paragraph name="Population distribution">
-            <text></text>
+            <text>the vast majority of people are found in the south; the northern interior areas remain sparsely poplulated</text>
         </paragraph>
 
         <paragraph name="Urbanization">
             <text>
-                <line></line>
-                <line></line>
+                <line>urban population: 85.5% of total population (2020)</line>
+                <line>rate of urbanization: 0.42% annual rate of change (2015-20 est.)</line>
             </text>
         </paragraph>
 
         <paragraph name="Major urban areas">
-            <text></text>
+            <text>1.292 million HELSINKI (capital) (2019)</text>
         </paragraph>
 
         <paragraph name="Sex ratio">
             <text>
-                <line></line>
-                <line></line>
-                <line></line>
-                <line></line>
-                <line></line>
-                <line></line>
-                <line></line>
+                <line>at birth: 1.05 male(s)/female (2020 est.)</line>
+                <line>0-14 years: 1.05 male(s)/female (2020 est.)</line>
+                <line>15-24 years: 1.05 male(s)/female (2020 est.)</line>
+                <line>25-54 years: 1.05 male(s)/female (2020 est.)</line>
+                <line>55-64 years: 0.97 male(s)/female (2020 est.)</line>
+                <line>65 years and over: 0.78 male(s)/female (2020 est.)</line>
+                <line>total population: 97.1 male(s)/female (2020 est.)</line>
             </text>
         </paragraph>
 
         <paragraph name="Mother's mean age at first birth">
-            <text></text>
+            <text>28.8 years (2015 est.)</text>
         </paragraph>
 
         <paragraph name="Maternal mortality rate">
             <text>
-                <line></line>
-                <line></line>
+                <line>3 deaths/100,000 live births (2017 est.)</line>
+                <line>country comparison to the world: 177</line>
             </text>
         </paragraph>
 
         <paragraph name="Infant mortality rate">
             <text>
-                <line></line>
-                <line></line>
-                <line></line>
-                <line></line>
+                <line>total: 2.5 deaths/1,000 live births</line>
+                <line>male: 2.7 deaths/1,000 live births</line>
+                <line>female: 2.4 deaths/1,000 live births (2020 est.)</line>
+                <line>country comparison to the world: 222</line>
             </text>
         </paragraph>
 
         <paragraph name="Life expectancy at birth">
             <text>
-                <line></line>
-                <line></line>
-                <line></line>
-                <line></line>
+                <line>total population: 81.3 years</line>
+                <line>male: 78.4 years</line>
+                <line>female: 84.4 years (2020 est.)</line>
+                <line>country comparison to the world: 33</line>
             </text>
         </paragraph>
     </section>
