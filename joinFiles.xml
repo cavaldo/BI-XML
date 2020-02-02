@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE countries [
+    <!ENTITY slovakia SYSTEM "Countries/Slovakia.xml">
+    <!ENTITY finland SYSTEM "Countries/Finland.xml">
+    <!ENTITY austria SYSTEM "Countries/Austria.xml">
+    <!ENTITY hungary SYSTEM "Countries/Hungary.xml">
+]>
+
+<countries>
+    &slovakia;
+    &finland;
+    &austria;
+    &hungary;
+</countries>
