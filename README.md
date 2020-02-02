@@ -1,6 +1,6 @@
 # BI-XML
 
-PROJEKT - INSTRUKCE
+# PROJEKT - INSTRUKCE
 
 - Vytvořte XML dokumenty se všemi daty pro každou zadanou oblast (z
   https://www.cia.gov/library/publications/the-world-factbook/). Podrobnosti
@@ -42,3 +42,9 @@ PROJEKT - INSTRUKCE
 
 - Do archivu i repozitáře také přidejte informace o projektu dle zadání v
   souboru "BI-XML-PROJEKT-PREZENTACE.txt".
+  
+  
+ # Použité příkazy:
+ Spojení jednotlivých oblastí do jednoho dokumentu.
+ xmllint --noent joinFiles.xml > countries.xml
+ 
