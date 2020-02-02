@@ -48,3 +48,6 @@
  Spojení jednotlivých oblastí do jednoho dokumentu.
  xmllint --noent joinFiles.xml > countries.xml
  
+ Validace souborů pomocí dtd (název souboru př. Countries/Slovakia.xml)
+ xmllint --noout --dtdvalid validation/validation.dtd -název souboru-
+ 
