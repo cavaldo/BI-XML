@@ -42,3 +42,9 @@ PROJEKT - INSTRUKCE
 
 - Do archivu i repozitáře také přidejte informace o projektu dle zadání v
   souboru "BI-XML-PROJEKT-PREZENTACE.txt".
+  
+  
+ # Použité příkazy:
+ Spojení jednotlivých oblastí do jednoho dokumentu.
+ xmllint --noent joinFiles.xml > countries.xml
+ 
