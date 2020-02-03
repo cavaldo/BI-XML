@@ -1,0 +1,8 @@
+<book>
+	<chapter t="prvni chapter">
+		<text>Tohle je prvni text</text>
+	</chapter>
+	<chapter t="druhy chapter">
+		<text>Tohle je druhy text</text>
+	</chapter>
+</book>			

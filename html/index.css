@@ -1,0 +1,55 @@
+body {
+    font-family: "Gill Sans", sans-serif;
+}
+
+a {
+    margin: 60px;
+    padding: 25px 0px 25px 0px;
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+}
+
+nav {
+    text-align: center;
+    background-color: rgb(52, 53, 54);
+    margin-top: -10px;
+    margin-left: -10px;
+    margin-right: -10px;
+    line-height: 3.5;
+}
+
+:hover {
+    text-decoration: underline;
+}
+
+h1 {
+    background-color: white;
+    border-radius: 10px;
+    text-align: center;
+    border-style: groove;
+    font-size: 60px;
+    margin: 100px;
+}
+
+li {
+    list-style-type: none;
+    font-size: 20px;
+    line-height: 1.5;
+}
+
+p {
+    font-size: 20px;
+    line-height: 1.5;
+    margin-left: 40px;
+}
+
+div {
+    font-size: 20px;
+    line-height: 1.5;
+    margin-left: 40px;
+}
+
+footer {
+    margin-top: 100px;
+}

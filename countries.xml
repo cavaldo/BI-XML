@@ -6,7 +6,6 @@
 <!ENTITY hungary SYSTEM "Countries/Hungary.xml">
 ]>
 <countries>
-    
 
 <country name="Slovakia">
     <section name="introduction">

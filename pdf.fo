@@ -19,14 +19,14 @@
          </fo:block>
       </fo:static-content>
       <fo:flow flow-name="xsl-region-body">
-         <fo:block font-size="18pt" font-weight="bold" text-align="center">
+         <fo:block font-size="30pt" font-weight="bold" text-align="center">
                         World Factbook
                     </fo:block>
-         <fo:block>
+         <fo:block font-size="20pt">
                         Content
                     </fo:block>
          <fo:block font-size="14pt" font-weight="bold" space-before="0.5cm">
-            <fo:basic-link internal-destination="Slovakia" color="blue">Slovakia<fo:list-block provisional-distance-between-starts="0.3cm"
+            <fo:basic-link internal-destination="Slovakia" color="black">Slovakia<fo:list-block provisional-distance-between-starts="0.3cm"
                               provisional-label-separation="0.15cm"
                               margin-left="15pt">
                   <fo:list-item>
@@ -153,7 +153,7 @@
             </fo:basic-link>
          </fo:block>
          <fo:block font-size="14pt" font-weight="bold" space-before="0.5cm">
-            <fo:basic-link internal-destination="Finland" color="blue">Finland<fo:list-block provisional-distance-between-starts="0.3cm"
+            <fo:basic-link internal-destination="Finland" color="black">Finland<fo:list-block provisional-distance-between-starts="0.3cm"
                               provisional-label-separation="0.15cm"
                               margin-left="15pt">
                   <fo:list-item>
@@ -280,7 +280,7 @@
             </fo:basic-link>
          </fo:block>
          <fo:block font-size="14pt" font-weight="bold" space-before="0.5cm">
-            <fo:basic-link internal-destination="Austria" color="blue">Austria<fo:list-block provisional-distance-between-starts="0.3cm"
+            <fo:basic-link internal-destination="Austria" color="black">Austria<fo:list-block provisional-distance-between-starts="0.3cm"
                               provisional-label-separation="0.15cm"
                               margin-left="15pt">
                   <fo:list-item>
@@ -407,7 +407,7 @@
             </fo:basic-link>
          </fo:block>
          <fo:block font-size="14pt" font-weight="bold" space-before="0.5cm">
-            <fo:basic-link internal-destination="Hungary" color="blue">Hungary<fo:list-block provisional-distance-between-starts="0.3cm"
+            <fo:basic-link internal-destination="Hungary" color="black">Hungary<fo:list-block provisional-distance-between-starts="0.3cm"
                               provisional-label-separation="0.15cm"
                               margin-left="15pt">
                   <fo:list-item>

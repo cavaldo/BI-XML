@@ -22,10 +22,10 @@
                     </fo:block>
                 </fo:static-content>
                 <fo:flow flow-name="xsl-region-body">
-                    <fo:block font-size="18pt" font-weight="bold" text-align="center">
+                    <fo:block font-size="30pt" font-weight="bold" text-align="center">
                         World Factbook
                     </fo:block>
-                    <fo:block>
+                    <fo:block font-size="20pt">
                         Content
                     </fo:block>
                     <xsl:apply-templates mode="content" />
@@ -41,7 +41,7 @@
 
     <xsl:template match="country" mode="content">
         <fo:block font-size="14pt" font-weight="bold" space-before="0.5cm">
-            <fo:basic-link internal-destination="{@name}" color="blue">
+            <fo:basic-link internal-destination="{@name}" color="black">
                 <xsl:value-of select="@name"/>
                 <fo:list-block provisional-distance-between-starts="0.3cm" provisional-label-separation="0.15cm" margin-left="15pt">
                     <xsl:for-each select="section">

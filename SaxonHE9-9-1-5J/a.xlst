@@ -1,0 +1,36 @@
+<xsl:stylesheet version="2.0"
+xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+
+<xsl:template match='/book'>
+<html>
+    <body>
+        <ul>
+            <xsl:apply-templates select='chapter' mode='content'/>
+        </ul>
+
+        <xsl:apply-templates select='chapter' mode='body'/>
+
+    </body>
+</html>
+
+</xsl:template>
+
+
+<xsl:template match='chapter' mode='content'>
+    <li>
+        <xsl:value-of select='@t'/>
+    </li>
+</xsl:template>
+
+<xsl:template match='chapter' mode='body'>
+    <h1>
+        <xsl:value-of select='@t'/>
+    </h1>
+
+    <p>
+       <xsl:value-of select='text'/>  
+    </p>
+</xsl:template>
+
+
+</xsl:stylesheet>
