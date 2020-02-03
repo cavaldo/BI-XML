@@ -1,7 +1,7 @@
 <?xml encoding="UTF-8"?>
 
 <!ELEMENT countries (country+)>
-<!ELEMENT country (section*)>
+<!ELEMENT country (section+)>
 <!ATTLIST country name CDATA #REQUIRED>
 
 <!ELEMENT section (paragraph*)>

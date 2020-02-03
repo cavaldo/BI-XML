@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<grammar xmlns="http://relaxng.org/ns/structure/1.0">
+	<start>
+        <choice>
+            <element name="countries">
+                <oneOrMore>
+                    <element name="country">
+                        <attribute name="name"/>
+                            <oneOrMore>
+                            <element name="section">
+                                <attribute name="name"/>
+                                <zeroOrMore>
+                                    <element name ="paragraph">
+                                        <attribute name="name"/>
+                                        <element name="text">
+                                            <optional>
+                                                <text/>
+                                            </optional>
+                                            <zeroOrMore>
+                                                <element name="line">
+                                                    <text/>
+                                                </element>    
+                                            </zeroOrMore>
+                                        </element>    
+                                    </element>
+                                </zeroOrMore>
+                            </element>
+                        </oneOrMore>
+                    </element>
+                </oneOrMore>
+            </element>
+            <element name="country">
+                <attribute name="name"/>
+                    <oneOrMore>
+                    <element name="section">
+                        <attribute name="name"/>
+                        <zeroOrMore>
+                            <element name ="paragraph">
+                                <attribute name="name"/>
+                                <element name="text">
+                                    <optional>
+                                        <text/>
+                                    </optional>
+                                    <zeroOrMore>
+                                        <element name="line">
+                                            <text/>
+                                        </element>    
+                                    </zeroOrMore>
+                                </element>    
+                            </element>
+                        </zeroOrMore>
+                    </element>
+                </oneOrMore>
+            </element>
+        </choice>
+    </start>    
+</grammar>
