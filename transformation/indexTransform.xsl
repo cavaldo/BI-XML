@@ -37,8 +37,8 @@
             </ul>
 
             <footer>
-                BI-XML
-                autor: Tien Toan Ha
+                <div>BI-XML</div>
+                <div>autor: Tien Toan Ha</div>
             </footer>
 
         </body>
