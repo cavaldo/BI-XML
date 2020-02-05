@@ -45,25 +45,28 @@
   
   
  # Použité příkazy:
- Spojení jednotlivých oblastí do jednoho dokumentu.
+ - Spojení jednotlivých oblastí do jednoho dokumentu.
  
- xmllint --noent joinFiles.xml > countries.xml
+    xmllint --noent joinFiles.xml > countries.xml
  
- Validace souborů pomocí dtd (název souboru př. Countries/Slovakia.xml)
+ - Validace souborů pomocí dtd (název souboru př. Countries/Slovakia.xml)
  
- xmllint --noout --dtdvalid validation/validation.dtd -název souboru-
+    xmllint --noout --dtdvalid validation/validation.dtd -název souboru-
  
- Validace pomocí relaxng
+ - Validace pomocí relaxng
  
- xmllint -noout -relaxng validation/validation.rng -název souboru-
+    xmllint -noout -relaxng validation/validation.rng -název souboru-
  
- Generování (X)HTML souborů (výstupní soubor př.: "html/finland.html")
- java -jar SaxonHE9-9-1-5J/saxon9he.jar -vstupní xml- transformation/countryTransform.xsl -o:("-název výstupního souboru-") 
+ - Generování (X)HTML souborů (vstupní s. př.: Countries/Finland.xml výstupní soubor př.: "html/finland.html")
  
- Generování indexu
- java -jar SaxonHE9-9-1-5J/saxon9he.jar countries.xml transformation/indexTransform.xsl -o:("html/index.html")
+    java -jar SaxonHE9-9-1-5J/saxon9he.jar -vstupní xml- transformation/countryTransform.xsl -o:"-název výstupního souboru-"
  
- Generování pdf souboru
- java -jar SaxonHE9-9-1-5J/saxon9he.jar countries.xml transformation/pdfTransform.xsl -o:"pdf.fo"    
+ - Generování indexu
+ 
+    java -jar SaxonHE9-9-1-5J/saxon9he.jar countries.xml transformation/indexTransform.xsl -o:"html/index.html"
+ 
+ - Generování pdf souboru
+ 
+    java -jar SaxonHE9-9-1-5J/saxon9he.jar countries.xml transformation/pdfTransform.xsl -o:"pdf.fo"    
  fop -fo pdf.fo -pdf countries.pdf
  
