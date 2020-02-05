@@ -35,7 +35,7 @@
 </xsl:template>
 
 <xsl:template match="//country" mode="content">
-        <h1 class="card-header">
+        <h1>
             <xsl:value-of select="@name" />
         </h1>
         <img>
@@ -64,7 +64,7 @@
         </img>
 
         <h2 class="navigation">Navigation</h2>
-        <ul class="list-unstyled">
+        <ul>
             <xsl:for-each select="section">
                 <li>
                     <a>
