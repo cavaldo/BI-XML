@@ -3,30 +3,80 @@
 <grammar xmlns="http://relaxng.org/ns/structure/1.0">
 	<start>
         <choice>
-            <element name="countries">
-                <oneOrMore>
-                    <element name="country">
+           <element name="country">
+                <attribute name="name"/>
+                    <oneOrMore>
+                    <element name="section">
                         <attribute name="name"/>
-                            <oneOrMore>
-                            <element name="section">
+                        <zeroOrMore>
+                            <element name ="paragraph">
                                 <attribute name="name"/>
-                                <zeroOrMore>
-                                    <element name ="paragraph">
-                                        <attribute name="name"/>
-                                        <element name="text">
-                                            <optional>
-                                                <text/>
-                                            </optional>
+                                <element name="text">
+                                    <choice>
+                                        <interleave>
                                             <zeroOrMore>
-                                                <element name="line">
-                                                    <text/>
-                                                </element>    
+                                                <text/>
                                             </zeroOrMore>
-                                        </element>    
-                                    </element>
-                                </zeroOrMore>
+                                            <zeroOrMore>
+                                                <element name="percent">
+                                                    <element name="number">
+                                                        <data type="double" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"/>
+                                                    </element>
+                                                    <element name="sign">
+                                                        <data type="string" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes">
+                                                            <param name="maxLength">1</param>
+                                                        </data>    
+                                                    </element>
+                                                </element>
+                                            </zeroOrMore>
+                                            <zeroOrMore>
+                                                <element name = "number">
+                                                    <data type="integer" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"/>
+                                                </element>
+                                            </zeroOrMore>
+                                            <zeroOrMore>
+                                                <element name = "unit">
+                                                    <data type="string" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"/>
+                                                </element>
+                                            </zeroOrMore>
+                                        </interleave>
+                                        <zeroOrMore>
+                                            <element name="line">
+                                                <zeroOrMore>
+                                                    <interleave>
+                                                        <zeroOrMore>
+                                                            <text/>
+                                                        </zeroOrMore>
+                                                        <zeroOrMore>
+                                                            <element name="percent">
+                                                                <element name="number">
+                                                                    <data type="double" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"/>
+                                                                </element>
+                                                                <element name="sign">
+                                                                    <data type="string" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes">
+                                                                        <param name="maxLength">1</param>
+                                                                    </data>    
+                                                                </element>
+                                                            </element>
+                                                        </zeroOrMore>
+                                                        <zeroOrMore>
+                                                            <element name = "number">
+                                                                <data type="integer" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"/>
+                                                            </element>
+                                                        </zeroOrMore>
+                                                        <zeroOrMore>
+                                                            <element name = "unit">
+                                                                <data type="string" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"/>
+                                                            </element>
+                                                        </zeroOrMore>
+                                                    </interleave>
+                                                </zeroOrMore>
+                                            </element>    
+                                        </zeroOrMore>
+                                    </choice>
+                                </element>    
                             </element>
-                        </oneOrMore>
+                        </zeroOrMore>
                     </element>
                 </oneOrMore>
             </element>
@@ -39,14 +89,44 @@
                             <element name ="paragraph">
                                 <attribute name="name"/>
                                 <element name="text">
-                                    <optional>
-                                        <text/>
-                                    </optional>
-                                    <zeroOrMore>
-                                        <element name="line">
-                                            <text/>
-                                        </element>    
-                                    </zeroOrMore>
+                                    <choice>
+                                        <interleave>
+                                            <zeroOrMore>
+                                                <text/>
+                                            </zeroOrMore>
+                                            <zeroOrMore>
+                                                <element name = "number">
+                                                    <data type="integer" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"/>
+                                                </element>
+                                            </zeroOrMore>
+                                            <zeroOrMore>
+                                                <element name = "unit">
+                                                    <data type="string" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"/>
+                                                </element>
+                                            </zeroOrMore>
+                                        </interleave>
+                                        <zeroOrMore>
+                                            <element name="line">
+                                                <zeroOrMore>
+                                                    <interleave>
+                                                        <zeroOrMore>
+                                                            <text/>
+                                                        </zeroOrMore>
+                                                        <zeroOrMore>
+                                                            <element name = "number">
+                                                                <data type="integer" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"/>
+                                                            </element>
+                                                        </zeroOrMore>
+                                                        <zeroOrMore>
+                                                            <element name = "unit">
+                                                                <data type="string" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"/>
+                                                            </element>
+                                                        </zeroOrMore>
+                                                    </interleave>
+                                                </zeroOrMore>
+                                            </element>    
+                                        </zeroOrMore>
+                                    </choice>
                                 </element>    
                             </element>
                         </zeroOrMore>

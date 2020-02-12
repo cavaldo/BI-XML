@@ -3,7 +3,7 @@
 <country name="Finland">
     <section name="Introduction">
       <paragraph name="Background">
-         <text>Finland was a province and then a grand duchy under Sweden from the 12th to the 19th centuries, and an autonomous grand duchy of Russia after 1809. It gained complete independence in 1917. During World War II, Finland successfully defended its independence through cooperation with Germany and resisted subsequent invasions by the Soviet Union - albeit with some loss of territory. In the subsequent half century, Finland transformed from a farm/forest economy to a diversified modern industrial economy; per capita income is among the highest in Western Europe. A member of the EU since 1995, Finland was the only Nordic state to join the euro single currency at its initiation in January 1999. In the 21st century, the key features of Finland's modern welfare state are high quality education, promotion of equality, and a national social welfare system - currently challenged by an aging population and the fluctuations of an export-driven economy.</text>
+         <text>Finland was a province and then a grand duchy under Sweden from the 12th to the 19th centuries, and an autonomous grand duchy of Russia after 1809. It gained complete independence in <number>1917</number>. During World War II, Finland successfully defended its independence through cooperation with Germany and resisted subsequent invasions by the Soviet Union - albeit with some loss of territory. In the subsequent half century, Finland transformed from a farm/forest economy to a diversified modern industrial economy; per capita income is among the highest in Western Europe. A member of the EU since <number>1995</number>, Finland was the only Nordic state to join the euro single currency at its initiation in January <number>1999</number>. In the 21st century, the key features of Finland's modern welfare state are high quality education, promotion of equality, and a national social welfare system - currently challenged by an aging population and the fluctuations of an export-driven economy.</text>
       </paragraph>
    </section>
 
@@ -22,10 +22,10 @@
 
         <paragraph name="Area">
             <text>
-                <line>total: 338,145 sq km</line>
-                <line>land: 303,815 sq km</line>
-                <line>water: 34,330 sq km</line>
-                <line>country comparison to the world: 66</line>
+                <line>total: <number>338145</number> <unit>sq</unit> <unit>km</unit></line>
+                <line>land: <number>303815</number> <unit>sq</unit> <unit>km</unit></line>
+                <line>water: <number>34330</number> <unit>sq</unit> <unit>km</unit></line>
+                <line>country comparison to the world: <number>66</number></line>
             </text>
         </paragraph>
 
@@ -35,26 +35,26 @@
 
         <paragraph name="Land boundaries">
             <text>
-                <line>total: 2,563 km</line>
-                <line>border countries (3): Norway 709 km, Sweden 545 km, Russia 1309 km</line>
+                <line>total: <number>2563</number> <unit>km</unit></line>
+                <line>border countries (<number>3</number>): Norway <number>709</number> <unit>km</unit>, Sweden <number>545</number> <unit>km</unit>, Russia <number>1309</number> <unit>km</unit></line>
             </text>
         </paragraph>
 
         <paragraph name="Coastline">
-            <text>1,250 km</text>
+            <text><number>1250</number> <unit>km</unit></text>
         </paragraph>
 
         <paragraph name="Maritime claims">
             <text>
-                <line>territorial sea: 12 nm (in the Gulf of Finland - 3 nm)</line>
-                <line>contiguous zone: 24 nm</line>
-                <line>continental shelf: 200 m depth or to the depth of exploitation</line>
-                <line>exclusive fishing zone: 12 nm; extends to continental shelf boundary with Sweden, Estonia, and Russia</line>
+                <line>territorial sea: <number>12</number> <unit>km</unit> (in the Gulf of Finland - <number>3</number> <unit>km</unit>)</line>
+                <line>contiguous zone: <number>24</number> <unit>km</unit></line>
+                <line>continental shelf: <number>200</number> <unit>km</unit> depth or to the depth of exploitation</line>
+                <line>exclusive fishing zone: <number>12</number> <unit>km</unit>; extends to continental shelf boundary with Sweden, Estonia, and Russia</line>
             </text>
         </paragraph>
 
         <paragraph name="Climate">
-            <text>cold temperate; potentially subarctic but comparatively mild because of moderating influence of the North Atlantic Current, Baltic Sea, and more than 60,000 lakes</text>
+            <text>cold temperate; potentially subarctic but comparatively mild because of moderating influence of the North Atlantic Current, Baltic Sea, and more than <number>60000</number> lakes</text>
         </paragraph>
 
         <paragraph name="Terrain">
@@ -63,9 +63,9 @@
 
         <paragraph name="Elevation">
             <text>
-                <line>mean elevation: 164 m</line>
-                <line>lowest point: Baltic Sea 0 m</line>
-                <line>highest point: Halti (alternatively Haltia, Haltitunturi, Haltiatunturi) 1,328 m</line>
+                <line>mean elevation: <number>164</number> <unit>km</unit></line>
+                <line>lowest point: Baltic Sea <number>0</number> <unit>km</unit></line>
+                <line>highest point: Halti (alternatively Haltia, Haltitunturi, Haltiatunturi) <number>1328</number> <unit>km</unit></line>
             </text>
         </paragraph>
 
@@ -75,15 +75,15 @@
 
         <paragraph name="Land use">
             <text>
-                <line>agricultural land: 7.5% (2011 est.)</line>
-                <line>arable land: 7.4% (2011 est.) / permanent crops: 0% (2011 est.) / permanent pasture: 0.1% (2011 est.)</line>
-                <line>forest: 72.9% (2011 est.)</line>
-                <line>other: 19.6% (2011 est.)</line>
+                <line>agricultural land: <percent><number>7.5</number><sign>%</sign></percent> (<number>2011</number> est.)</line>
+                <line>arable land: <percent><number>7.4</number><sign>%</sign></percent> (<number>2011</number> est.) / permanent crops: 0% (<number>2011</number> est.) / permanent pasture: <percent><number>0.1</number><sign>%</sign></percent> (<number>2011</number> est.)</line>
+                <line>forest: <percent><number>72.9</number><sign>%</sign></percent> (2011 est.)</line>
+                <line>other: <percent><number>19.6</number><sign>%</sign></percent> (2011 est.)</line>
             </text>
         </paragraph>
 
         <paragraph name="Irrigated land">
-            <text>690 sq km (2012)</text>
+            <text><number>690</number> <unit>km</unit> <unit>km</unit> (<number>2012</number>)</text>
         </paragraph>
 
         <paragraph name="Population distribution">
@@ -100,7 +100,7 @@
 
         <paragraph name="Environment - international agreements">
             <text>
-                <line>party to: Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulfur 85, Air Pollution-Sulfur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protocol, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands, Whaling</line>
+                <line>party to: Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulfur <number>85</number>, Air Pollution-Sulfur <number>94</number>, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protocol, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Tropical Timber <number>83</number>, Tropical Timber <number>94</number>, Wetlands, Whaling</line>
                 <line>signed, but not ratified: none of the selected agreements</line>
             </text>
         </paragraph>

@@ -1,4 +1,4 @@
-<?xml encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 
 <!ELEMENT countries (country+)>
 <!ELEMENT country (section+)>
@@ -10,6 +10,15 @@
 <!ELEMENT paragraph (text)>
 <!ATTLIST paragraph name CDATA #REQUIRED>
 
-<!ELEMENT text (#PCDATA|line)*>
+<!ELEMENT text (#PCDATA|line|number|unit|percent)*>
 
-<!ELEMENT line (#PCDATA)>
+<!ELEMENT line (#PCDATA|number|unit|percent)*>
+
+<!ELEMENT percent (number,sign)>
+
+<!ELEMENT sign (#PCDATA)>
+
+<!ELEMENT number (#PCDATA)>
+
+<!ELEMENT unit (#PCDATA)>
+

@@ -3,7 +3,7 @@
 <country name="Hungary">
     <section name="Introduction">
       <paragraph name="Background">
-         <text>Hungary became a Christian kingdom in A.D. 1000 and for many centuries served as a bulwark against Ottoman Turkish expansion in Europe. The kingdom eventually became part of the polyglot Austro-Hungarian Empire, which collapsed during World War I. The country fell under communist rule following World War II. In 1956, a revolt and an announced withdrawal from the Warsaw Pact were met with a massive military intervention by Moscow. Under the leadership of Janos KADAR in 1968, Hungary began liberalizing its economy, introducing so-called "Goulash Communism." Hungary held its first multiparty elections in 1990 and initiated a free market economy. It joined NATO in 1999 and the EU five years later.</text>
+         <text>Hungary became a Christian kingdom in A.D. <number>1000</number> and for many centuries served as a bulwark against Ottoman Turkish expansion in Europe. The kingdom eventually became part of the polyglot Austro-Hungarian Empire, which collapsed during World War I. The country fell under communist rule following World War II. In <number>1956</number>, a revolt and an announced withdrawal from the Warsaw Pact were met with a massive military intervention by Moscow. Under the leadership of Janos KADAR in <number>1968</number>, Hungary began liberalizing its economy, introducing so-called "Goulash Communism." Hungary held its first multiparty elections in <number>1990</number> and initiated a free market economy. It joined NATO in <number>1999</number> and the EU five years later.</text>
       </paragraph>
    </section>
 
@@ -22,9 +22,9 @@
 
         <paragraph name="Area">
             <text>
-                <line>total: 93,028 sq km</line>
-                <line>land: 89,608 sq km</line>
-                <line>water: 3,420 sq km</line>
+                <line>total: <number>93028</number> <unit>sq</unit> <unit>km</unit></line>
+                <line>land: <number>89608</number> <unit>sq</unit> <unit>km</unit></line>
+                <line>water: <number>3420</number> <unit>sq</unit> <unit>km</unit></line>
                 <line>country comparison to the world: 111</line>
             </text>
         </paragraph>
@@ -35,13 +35,13 @@
 
         <paragraph name="Land boundaries">
             <text>
-                <line>total: 2,106 km</line>
-                <line>border countries (7): Austria 321 km, Croatia 348 km, Romania 424 km, Serbia 164 km, Slovakia 627 km, Slovenia 94 km, Ukraine 128 km</line>
+                <line>total: <number>2106</number> <unit>km</unit></line>
+                <line>border countries (<number>7</number>): Austria <number>321</number> <unit>km</unit>, Croatia <number>348</number> <unit>km</unit>, Romania <number>424</number> <unit>km</unit>, Serbia <number>164</number> <unit>km</unit>, Slovakia <number>627</number> <unit>km</unit>, Slovenia <number>94</number> <unit>km</unit>, Ukraine <number>128</number> <unit>km</unit></line>
             </text>
         </paragraph>
 
         <paragraph name="Coastline">
-            <text>0 km (landlocked)</text>
+            <text><number>0</number> <unit>km</unit> (landlocked)</text>
         </paragraph>
 
         <paragraph name="Maritime claims">
@@ -58,9 +58,9 @@
 
         <paragraph name="Elevation">
             <text>
-                <line>mean elevation: 143 m</line>
-                <line>lowest point: Tisza River 78 m</line>
-                <line>highest point: Kekes 1,014 m</line>
+                <line>mean elevation: <number>143</number> <unit>m</unit></line>
+                <line>lowest point: Tisza River <number>78</number> <unit>m</unit></line>
+                <line>highest point: Kekes <number>1014</number> <unit>m</unit></line>
             </text>
         </paragraph>
 
@@ -70,15 +70,15 @@
 
         <paragraph name="Land use">
             <text>
-                <line>agricultural land: 58.9% (2011 est.)</line>
-                <line>arable land: 48.5% (2011 est.) / permanent crops: 2% (2011 est.) / permanent pasture: 8.4% (2011 est.)</line>
-                <line>forest: 22.5% (2011 est.)</line>
-                <line>other: 18.6% (2011 est.)</line>
+                <line>agricultural land: <percent><number>58.9</number><sign>%</sign></percent> (<number>2011</number> est.)</line>
+                <line>arable land: <percent><number>48.5</number><sign>%</sign></percent> (<number>2011</number> est.) / permanent crops: <percent><number>2</number><sign>%</sign></percent> (<number>2011</number> est.) / permanent pasture: <percent><number>8.4</number><sign>%</sign></percent> (<number>2011</number> est.)</line>
+                <line>forest: <percent><number>22.5</number><sign>%</sign></percent> (<number>2011</number> est.)</line>
+                <line>other: <percent><number>18.6</number><sign>%</sign></percent> (<number>2011</number> est.)</line>
             </text>
         </paragraph>
 
         <paragraph name="Irrigated land">
-            <text>1,721 sq km (2012)</text>
+            <text><number>1721</number> <unit>sq</unit> <unit>km</unit> (<number>2012</number>)</text>
         </paragraph>
 
         <paragraph name="Population distribution">
@@ -95,7 +95,7 @@
 
         <paragraph name="Environment - international agreements">
             <text>
-                <line>party to: Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulfur 85, Air Pollution-Sulfur 94, Air Pollution-Volatile Organic Compounds, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling</line>
+                <line>party to: Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulfur <number>85</number>, Air Pollution-Sulfur <number>94</number>, Air Pollution-Volatile Organic Compounds, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling</line>
                 <line>signed, but not ratified: none of the selected agreements</line>
             </text>
         </paragraph>

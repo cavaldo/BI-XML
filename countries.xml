@@ -6,11 +6,12 @@
 <!ENTITY hungary SYSTEM "Countries/Hungary.xml">
 ]>
 <countries>
+    
 
 <country name="Slovakia">
-    <section name="introduction">
-      <paragraph name="background">
-         <text>Slovakia traces its roots to the 9th century state of Great Moravia. Subsequently, the Slovaks became part of the Hungarian Kingdom, where they remained for the next 1,000 years. After the formation of the dual Austro-Hungarian monarchy in 1867, backlash to language and education policies favoring the use of Hungarian (Magyarization) encouraged the strengthening of Slovak nationalism and a cultivation of cultural ties with the closely related Czechs, who fell administratively under the Austrian half of the empire. After the dissolution of the Austro-Hungarian Empire at the close of World War I, the Slovaks joined the Czechs to form Czechoslovakia. The new state was envisioned as a nation with Czech and Slovak branches. During the interwar period, Slovak nationalist leaders pushed for autonomy within Czechoslovakia, and in 1939 Slovakia became an independent state created by and allied with Nazi Germany. Following World War II, Czechoslovakia was reconstituted and came under communist rule within Soviet-dominated Eastern Europe. In 1968, an invasion by Warsaw Pact troops ended the efforts of Czechoslovakia's leaders to liberalize communist rule and create "socialism with a human face," ushering in a period of repression known as "normalization." The peaceful "Velvet Revolution" swept the Communist Party from power at the end of 1989 and inaugurated a return to democratic rule and a market economy. On 1 January 1993, Czechoslovakia underwent a nonviolent "velvet divorce" into its two national components, Slovakia and the Czech Republic. Slovakia joined both NATO and the EU in the spring of 2004 and the euro zone on 1 January 2009.</text>
+    <section name="Introduction">
+      <paragraph name="Background">
+         <text>Slovakia traces its roots to the 9th century state of Great Moravia. Subsequently, the Slovaks became part of the Hungarian Kingdom, where they remained for the next <number>1000</number> years. After the formation of the dual Austro-Hungarian monarchy in <number>1867</number>, backlash to language and education policies favoring the use of Hungarian (Magyarization) encouraged the strengthening of Slovak nationalism and a cultivation of cultural ties with the closely related Czechs, who fell administratively under the Austrian half of the empire. After the dissolution of the Austro-Hungarian Empire at the close of World War I, the Slovaks joined the Czechs to form Czechoslovakia. The new state was envisioned as a nation with Czech and Slovak branches. During the interwar period, Slovak nationalist leaders pushed for autonomy within Czechoslovakia, and in <number>1939</number> Slovakia became an independent state created by and allied with Nazi Germany. Following World War II, Czechoslovakia was reconstituted and came under communist rule within Soviet-dominated Eastern Europe. In <number>1968</number>, an invasion by Warsaw Pact troops ended the efforts of Czechoslovakia's leaders to liberalize communist rule and create "socialism with a human face," ushering in a period of repression known as "normalization." The peaceful "Velvet Revolution" swept the Communist Party from power at the end of <number>1989</number> and inaugurated a return to democratic rule and a market economy. On <number>1</number> January <number>1993</number>, Czechoslovakia underwent a nonviolent "velvet divorce" into its two national components, Slovakia and the Czech Republic. Slovakia joined both NATO and the EU in the spring of <number>2004</number> and the euro zone on <number>1</number> January <number>2009</number>.</text>
       </paragraph>
    </section>
 
@@ -29,10 +30,10 @@
 
         <paragraph name="Area">
             <text>
-                <line>total: 49,035 sq km</line>
-                <line>land: 48,105 sq km</line>
-                <line>water: 930 sq km</line>
-                <line>country comparison to the world: 131</line>
+                <line>total: <number>49035</number> <unit>sq</unit> <unit>km</unit></line>
+                <line>land: <number>48135</number> <unit>sq</unit> <unit>km</unit></line>
+                <line>water: <number>930</number> <unit>sq</unit> <unit>km</unit></line>
+                <line>country comparison to the world: <number>131</number></line>
             </text>
         </paragraph>
 
@@ -42,13 +43,13 @@
 
         <paragraph name="Land boundaries">
             <text>
-                <line>total: 1,611 km</line>
-                <line>border countries (5): Austria 105 km, Czech Republic 241 km, Hungary 627 km, Poland 541 km, Ukraine 97 km</line>
+                <line>total: <number>1611</number> <unit>km</unit></line>
+                <line>border countries (<number>5</number>): Austria <number>105</number> <unit>km</unit>, Czech Republic <number>241</number> <unit>km</unit>, Hungary <number>627</number> <unit>km</unit>, Poland <number>541</number> <unit>km</unit>, Ukraine <number>97</number> <unit>km</unit></line>
             </text>
         </paragraph>
 
         <paragraph name="Coastline">
-            <text>0 km (landlocked)</text>
+            <text><number>0</number> <unit>km</unit> (landlocked)</text>
         </paragraph>
 
         <paragraph name="Maritime claims">
@@ -65,9 +66,9 @@
 
         <paragraph name="Elevation">
             <text>
-                <line>mean elevation: 458 m</line>
-                <line>lowest point: Bodrok River 94 m</line>
-                <line>highest point: Gerlachovsky Stit 2,655 m</line>
+                <line>mean elevation: <number>458</number> <unit>m</unit></line>
+                <line>lowest point: Bodrok River <number>94</number> <unit>m</unit></line>
+                <line>highest point: Gerlachovsky Stit <number>2655</number> <unit>m</unit></line>
             </text>
         </paragraph>
 
@@ -77,15 +78,15 @@
 
         <paragraph name="Land use">
             <text>
-                <line>agricultural land: 40.1% (2011 est.)</line>
-                <line>arable land: 28.9% (2011 est.) / permanent crops: 0.4% (2011 est.) / permanent pasture: 10.8% (2011 est.)</line>
-                <line>forest: 40.2% (2011 est.)</line>
-                <line>other: 19.7% (2011 est.)</line>
+                <line>agricultural land: <percent><number>40.1</number><sign>%</sign></percent> (<number>2011</number> est.)</line>
+                <line>arable land: <percent><number>28.9</number><sign>%</sign></percent> (<number>2011</number> est.) / permanent crops: <percent><number>0.4</number><sign>%</sign></percent> (<number>2011</number> est.) / permanent pasture: <percent><number>10.8</number><sign>%</sign></percent> (<number>2011</number> est.)</line>
+                <line>forest: <percent><number>40.2</number><sign>%</sign></percent> (<number>2011</number> est.)</line>
+                <line>other: <percent><number>19.7</number><sign>%</sign></percent> (<number>2011</number> est.)</line>
             </text>
         </paragraph>
 
         <paragraph name="Irrigated land">
-            <text>869 sq km (2012)</text>
+            <text><number>869</number> <unit>sq</unit> <unit>km</unit> (<number>2012</number>)</text>
         </paragraph>
 
         <paragraph name="Population distribution">
@@ -629,9 +630,9 @@
     
 
 <country name="Finland">
-    <section name="introduction">
-      <paragraph name="background">
-         <text>Finland was a province and then a grand duchy under Sweden from the 12th to the 19th centuries, and an autonomous grand duchy of Russia after 1809. It gained complete independence in 1917. During World War II, Finland successfully defended its independence through cooperation with Germany and resisted subsequent invasions by the Soviet Union - albeit with some loss of territory. In the subsequent half century, Finland transformed from a farm/forest economy to a diversified modern industrial economy; per capita income is among the highest in Western Europe. A member of the EU since 1995, Finland was the only Nordic state to join the euro single currency at its initiation in January 1999. In the 21st century, the key features of Finland's modern welfare state are high quality education, promotion of equality, and a national social welfare system - currently challenged by an aging population and the fluctuations of an export-driven economy.</text>
+    <section name="Introduction">
+      <paragraph name="Background">
+         <text>Finland was a province and then a grand duchy under Sweden from the 12th to the 19th centuries, and an autonomous grand duchy of Russia after 1809. It gained complete independence in <number>1917</number>. During World War II, Finland successfully defended its independence through cooperation with Germany and resisted subsequent invasions by the Soviet Union - albeit with some loss of territory. In the subsequent half century, Finland transformed from a farm/forest economy to a diversified modern industrial economy; per capita income is among the highest in Western Europe. A member of the EU since <number>1995</number>, Finland was the only Nordic state to join the euro single currency at its initiation in January <number>1999</number>. In the 21st century, the key features of Finland's modern welfare state are high quality education, promotion of equality, and a national social welfare system - currently challenged by an aging population and the fluctuations of an export-driven economy.</text>
       </paragraph>
    </section>
 
@@ -650,10 +651,10 @@
 
         <paragraph name="Area">
             <text>
-                <line>total: 338,145 sq km</line>
-                <line>land: 303,815 sq km</line>
-                <line>water: 34,330 sq km</line>
-                <line>country comparison to the world: 66</line>
+                <line>total: <number>338145</number> <unit>sq</unit> <unit>km</unit></line>
+                <line>land: <number>303815</number> <unit>sq</unit> <unit>km</unit></line>
+                <line>water: <number>34330</number> <unit>sq</unit> <unit>km</unit></line>
+                <line>country comparison to the world: <number>66</number></line>
             </text>
         </paragraph>
 
@@ -663,26 +664,26 @@
 
         <paragraph name="Land boundaries">
             <text>
-                <line>total: 2,563 km</line>
-                <line>border countries (3): Norway 709 km, Sweden 545 km, Russia 1309 km</line>
+                <line>total: <number>2563</number> <unit>km</unit></line>
+                <line>border countries (<number>3</number>): Norway <number>709</number> <unit>km</unit>, Sweden <number>545</number> <unit>km</unit>, Russia <number>1309</number> <unit>km</unit></line>
             </text>
         </paragraph>
 
         <paragraph name="Coastline">
-            <text>1,250 km</text>
+            <text><number>1250</number> <unit>km</unit></text>
         </paragraph>
 
         <paragraph name="Maritime claims">
             <text>
-                <line>territorial sea: 12 nm (in the Gulf of Finland - 3 nm)</line>
-                <line>contiguous zone: 24 nm</line>
-                <line>continental shelf: 200 m depth or to the depth of exploitation</line>
-                <line>exclusive fishing zone: 12 nm; extends to continental shelf boundary with Sweden, Estonia, and Russia</line>
+                <line>territorial sea: <number>12</number> <unit>km</unit> (in the Gulf of Finland - <number>3</number> <unit>km</unit>)</line>
+                <line>contiguous zone: <number>24</number> <unit>km</unit></line>
+                <line>continental shelf: <number>200</number> <unit>km</unit> depth or to the depth of exploitation</line>
+                <line>exclusive fishing zone: <number>12</number> <unit>km</unit>; extends to continental shelf boundary with Sweden, Estonia, and Russia</line>
             </text>
         </paragraph>
 
         <paragraph name="Climate">
-            <text>cold temperate; potentially subarctic but comparatively mild because of moderating influence of the North Atlantic Current, Baltic Sea, and more than 60,000 lakes</text>
+            <text>cold temperate; potentially subarctic but comparatively mild because of moderating influence of the North Atlantic Current, Baltic Sea, and more than <number>60000</number> lakes</text>
         </paragraph>
 
         <paragraph name="Terrain">
@@ -691,9 +692,9 @@
 
         <paragraph name="Elevation">
             <text>
-                <line>mean elevation: 164 m</line>
-                <line>lowest point: Baltic Sea 0 m</line>
-                <line>highest point: Halti (alternatively Haltia, Haltitunturi, Haltiatunturi) 1,328 m</line>
+                <line>mean elevation: <number>164</number> <unit>km</unit></line>
+                <line>lowest point: Baltic Sea <number>0</number> <unit>km</unit></line>
+                <line>highest point: Halti (alternatively Haltia, Haltitunturi, Haltiatunturi) <number>1328</number> <unit>km</unit></line>
             </text>
         </paragraph>
 
@@ -703,15 +704,15 @@
 
         <paragraph name="Land use">
             <text>
-                <line>agricultural land: 7.5% (2011 est.)</line>
-                <line>arable land: 7.4% (2011 est.) / permanent crops: 0% (2011 est.) / permanent pasture: 0.1% (2011 est.)</line>
-                <line>forest: 72.9% (2011 est.)</line>
-                <line>other: 19.6% (2011 est.)</line>
+                <line>agricultural land: <percent><number>7.5</number><sign>%</sign></percent> (<number>2011</number> est.)</line>
+                <line>arable land: <percent><number>7.4</number><sign>%</sign></percent> (<number>2011</number> est.) / permanent crops: 0% (<number>2011</number> est.) / permanent pasture: <percent><number>0.1</number><sign>%</sign></percent> (<number>2011</number> est.)</line>
+                <line>forest: <percent><number>72.9</number><sign>%</sign></percent> (2011 est.)</line>
+                <line>other: <percent><number>19.6</number><sign>%</sign></percent> (2011 est.)</line>
             </text>
         </paragraph>
 
         <paragraph name="Irrigated land">
-            <text>690 sq km (2012)</text>
+            <text><number>690</number> <unit>km</unit> <unit>km</unit> (<number>2012</number>)</text>
         </paragraph>
 
         <paragraph name="Population distribution">
@@ -728,7 +729,7 @@
 
         <paragraph name="Environment - international agreements">
             <text>
-                <line>party to: Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulfur 85, Air Pollution-Sulfur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protocol, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands, Whaling</line>
+                <line>party to: Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulfur <number>85</number>, Air Pollution-Sulfur <number>94</number>, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protocol, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Tropical Timber <number>83</number>, Tropical Timber <number>94</number>, Wetlands, Whaling</line>
                 <line>signed, but not ratified: none of the selected agreements</line>
             </text>
         </paragraph>
@@ -1256,9 +1257,9 @@
     
 
 <country name="Austria">
-    <section name="introduction">
-      <paragraph name="background">
-         <text>Once the center of power for the large Austro-Hungarian Empire, Austria was reduced to a small republic after its defeat in World War I. Following annexation by Nazi Germany in 1938 and subsequent occupation by the victorious Allies in 1945, Austria's status remained unclear for a decade. A State Treaty signed in 1955 ended the occupation, recognized Austria's independence, and forbade unification with Germany. A constitutional law that same year declared the country's "perpetual neutrality" as a condition for Soviet military withdrawal. The Soviet Union's collapse in 1991 and Austria's entry into the EU in 1995 have altered the meaning of this neutrality. A prosperous, democratic country, Austria entered the EU Economic and Monetary Union in 1999.</text>
+    <section name="Introduction">
+      <paragraph name="Background">
+         <text>Once the center of power for the large Austro-Hungarian Empire, Austria was reduced to a small republic after its defeat in World War I. Following annexation by Nazi Germany in <number>1938</number> and subsequent occupation by the victorious Allies in 1945, Austria's status remained unclear for a decade. A State Treaty signed in 1955 ended the occupation, recognized Austria's independence, and forbade unification with Germany. A constitutional law that same year declared the country's "perpetual neutrality" as a condition for Soviet military withdrawal. The Soviet Union's collapse in 1991 and Austria's entry into the EU in 1995 have altered the meaning of this neutrality. A prosperous, democratic country, Austria entered the EU Economic and Monetary Union in 1999.</text>
       </paragraph>
    </section>
 
@@ -1277,10 +1278,10 @@
 
         <paragraph name="Area">
             <text>
-                <line>total: 83,871 sq km</line>
-                <line>land: 82,445 sq km</line>
-                <line>water: 1,426 sq km</line>
-                <line>country comparison to the world: 115</line>
+                <line>total: <number>83871</number> <unit>sq</unit> <unit>km</unit></line>
+                <line>land: <number>82445</number> <unit>sq</unit> <unit>km</unit></line>
+                <line>water: <number>1426</number> <unit>sq</unit> <unit>km</unit></line>
+                <line>country comparison to the world: <number>115</number></line>
             </text>
         </paragraph>
 
@@ -1290,13 +1291,13 @@
 
         <paragraph name="Land boundaries">
             <text>
-                <line>total: 2,524 km</line>
-                <line>border countries (8): Czech Republic 402 km, Germany 801 km, Hungary 321 km, Italy 404 km, Liechtenstein 34 km, Slovakia 105 km, Slovenia 299 km, Switzerland 158 km</line>
+                <line>total: <number>2524</number> <unit>km</unit></line>
+                <line>border countries (<number>8</number>): Czech Republic <number>402</number> <unit>km</unit>, Germany <number>801</number> <unit>km</unit>, Hungary <number>321</number> <unit>km</unit>, Italy <number>404</number> <unit>km</unit>, Liechtenstein <number>34</number> <unit>km</unit>, Slovakia <number>105</number> <unit>km</unit>, Slovenia <number>299</number> <unit>km</unit>, Switzerland <number>158</number> <unit>km</unit></line>
             </text>
         </paragraph>
 
         <paragraph name="Coastline">
-            <text>0 km (landlocked)</text>
+            <text><number>0</number> <unit>km</unit> (landlocked)</text>
         </paragraph>
 
         <paragraph name="Maritime claims">
@@ -1313,9 +1314,9 @@
 
         <paragraph name="Elevation">
             <text>
-                <line>mean elevation: 910 m</line>
-                <line>lowest point: Neusiedler See 115 m</line>
-                <line>highest point: Grossglockner 3,798 m</line>
+                <line>mean elevation: <number>910</number> <unit>m</unit></line>
+                <line>lowest point: Neusiedler See <number>115</number> <unit>m</unit></line>
+                <line>highest point: Grossglockner <number>3798</number> <unit>m</unit></line>
             </text>
         </paragraph>
 
@@ -1325,15 +1326,15 @@
 
         <paragraph name="Land use">
             <text>
-                <line>agricultural land: 38.4% (2016 est.)</line>
-                <line>arable land: 16.5% (2016 est.) / permanent crops: 0.8% (2016 est.) / permanent pasture: 21.1% (2016 est.)</line>
-                <line>forest: 47.2% (2016 est.)</line>
-                <line>other: 14.4% (2016 est.)</line>
+                <line>agricultural land: <percent><number>38.4</number><sign>%</sign></percent> (<number>2016</number> est.)</line>
+                <line>arable land: <percent><number>16.5</number><sign>%</sign></percent> (<number>2016</number> est.) / permanent crops: <percent><number>0.8</number><sign>%</sign></percent> (<number>2016</number> est.) / permanent pasture: <percent><number>21.1</number><sign>%</sign></percent> (<number>2016</number> est.)</line>
+                <line>forest: <percent><number>47.2</number><sign>%</sign></percent> (<number>2016</number> est.)</line>
+                <line>other: <percent><number>14.4</number><sign>%</sign></percent> (<number>2016</number> est.)</line>
             </text>
         </paragraph>
 
         <paragraph name="Irrigated land">
-            <text>1,170 sq km (2012)</text>
+            <text><number>1170</number> <unit>sq</unit> <unit>km</unit> (<number>2012</number>)</text>
         </paragraph>
 
         <paragraph name="Population distribution">
@@ -1350,7 +1351,7 @@
 
         <paragraph name="Environment - international agreements">
             <text>
-                <line>party to: Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulfur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands, Whaling</line>
+                <line>party to: Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulfur <number>85</number>, Air Pollution-Sulphur <number>94</number>, Air Pollution-Volatile Organic Compounds, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Tropical Timber <number>83</number>, Tropical Timber <number>94</number>, Wetlands, Whaling</line>
                 <line>signed, but not ratified: none of the selected agreements</line>
             </text>
         </paragraph>
@@ -1877,9 +1878,9 @@
     
 
 <country name="Hungary">
-    <section name="introduction">
-      <paragraph name="background">
-         <text>Hungary became a Christian kingdom in A.D. 1000 and for many centuries served as a bulwark against Ottoman Turkish expansion in Europe. The kingdom eventually became part of the polyglot Austro-Hungarian Empire, which collapsed during World War I. The country fell under communist rule following World War II. In 1956, a revolt and an announced withdrawal from the Warsaw Pact were met with a massive military intervention by Moscow. Under the leadership of Janos KADAR in 1968, Hungary began liberalizing its economy, introducing so-called "Goulash Communism." Hungary held its first multiparty elections in 1990 and initiated a free market economy. It joined NATO in 1999 and the EU five years later.</text>
+    <section name="Introduction">
+      <paragraph name="Background">
+         <text>Hungary became a Christian kingdom in A.D. <number>1000</number> and for many centuries served as a bulwark against Ottoman Turkish expansion in Europe. The kingdom eventually became part of the polyglot Austro-Hungarian Empire, which collapsed during World War I. The country fell under communist rule following World War II. In <number>1956</number>, a revolt and an announced withdrawal from the Warsaw Pact were met with a massive military intervention by Moscow. Under the leadership of Janos KADAR in <number>1968</number>, Hungary began liberalizing its economy, introducing so-called "Goulash Communism." Hungary held its first multiparty elections in <number>1990</number> and initiated a free market economy. It joined NATO in <number>1999</number> and the EU five years later.</text>
       </paragraph>
    </section>
 
@@ -1898,9 +1899,9 @@
 
         <paragraph name="Area">
             <text>
-                <line>total: 93,028 sq km</line>
-                <line>land: 89,608 sq km</line>
-                <line>water: 3,420 sq km</line>
+                <line>total: <number>93028</number> <unit>sq</unit> <unit>km</unit></line>
+                <line>land: <number>89608</number> <unit>sq</unit> <unit>km</unit></line>
+                <line>water: <number>3420</number> <unit>sq</unit> <unit>km</unit></line>
                 <line>country comparison to the world: 111</line>
             </text>
         </paragraph>
@@ -1911,13 +1912,13 @@
 
         <paragraph name="Land boundaries">
             <text>
-                <line>total: 2,106 km</line>
-                <line>border countries (7): Austria 321 km, Croatia 348 km, Romania 424 km, Serbia 164 km, Slovakia 627 km, Slovenia 94 km, Ukraine 128 km</line>
+                <line>total: <number>2106</number> <unit>km</unit></line>
+                <line>border countries (<number>7</number>): Austria <number>321</number> <unit>km</unit>, Croatia <number>348</number> <unit>km</unit>, Romania <number>424</number> <unit>km</unit>, Serbia <number>164</number> <unit>km</unit>, Slovakia <number>627</number> <unit>km</unit>, Slovenia <number>94</number> <unit>km</unit>, Ukraine <number>128</number> <unit>km</unit></line>
             </text>
         </paragraph>
 
         <paragraph name="Coastline">
-            <text>0 km (landlocked)</text>
+            <text><number>0</number> <unit>km</unit> (landlocked)</text>
         </paragraph>
 
         <paragraph name="Maritime claims">
@@ -1934,9 +1935,9 @@
 
         <paragraph name="Elevation">
             <text>
-                <line>mean elevation: 143 m</line>
-                <line>lowest point: Tisza River 78 m</line>
-                <line>highest point: Kekes 1,014 m</line>
+                <line>mean elevation: <number>143</number> <unit>m</unit></line>
+                <line>lowest point: Tisza River <number>78</number> <unit>m</unit></line>
+                <line>highest point: Kekes <number>1014</number> <unit>m</unit></line>
             </text>
         </paragraph>
 
@@ -1946,15 +1947,15 @@
 
         <paragraph name="Land use">
             <text>
-                <line>agricultural land: 58.9% (2011 est.)</line>
-                <line>arable land: 48.5% (2011 est.) / permanent crops: 2% (2011 est.) / permanent pasture: 8.4% (2011 est.)</line>
-                <line>forest: 22.5% (2011 est.)</line>
-                <line>other: 18.6% (2011 est.)</line>
+                <line>agricultural land: <percent><number>58.9</number><sign>%</sign></percent> (<number>2011</number> est.)</line>
+                <line>arable land: <percent><number>48.5</number><sign>%</sign></percent> (<number>2011</number> est.) / permanent crops: <percent><number>2</number><sign>%</sign></percent> (<number>2011</number> est.) / permanent pasture: <percent><number>8.4</number><sign>%</sign></percent> (<number>2011</number> est.)</line>
+                <line>forest: <percent><number>22.5</number><sign>%</sign></percent> (<number>2011</number> est.)</line>
+                <line>other: <percent><number>18.6</number><sign>%</sign></percent> (<number>2011</number> est.)</line>
             </text>
         </paragraph>
 
         <paragraph name="Irrigated land">
-            <text>1,721 sq km (2012)</text>
+            <text><number>1721</number> <unit>sq</unit> <unit>km</unit> (<number>2012</number>)</text>
         </paragraph>
 
         <paragraph name="Population distribution">
@@ -1971,7 +1972,7 @@
 
         <paragraph name="Environment - international agreements">
             <text>
-                <line>party to: Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulfur 85, Air Pollution-Sulfur 94, Air Pollution-Volatile Organic Compounds, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling</line>
+                <line>party to: Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulfur <number>85</number>, Air Pollution-Sulfur <number>94</number>, Air Pollution-Volatile Organic Compounds, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling</line>
                 <line>signed, but not ratified: none of the selected agreements</line>
             </text>
         </paragraph>
